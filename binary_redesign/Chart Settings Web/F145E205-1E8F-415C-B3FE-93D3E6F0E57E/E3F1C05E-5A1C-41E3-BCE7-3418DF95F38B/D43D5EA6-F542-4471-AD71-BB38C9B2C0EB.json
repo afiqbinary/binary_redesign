@@ -1,0 +1,69 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "D43D5EA6-F542-4471-AD71-BB38C9B2C0EB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 675,
+    "width": 1068,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "elements/chart",
+  "nameIsFixed": false,
+  "originalObjectID": "AB5546F4-B045-4795-8F50-D8F195D0D334",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "B5BDD6F9-EE0A-4D82-B2D7-7C327216B79B_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "ABF3DA77-0F00-49AF-9CB0-B29C5F98E6BC/FD3DE8F4-88BC-4347-95FE-86A00CCB22D2_symbolID",
+      "value": "AAFDF162-E14E-4527-8FD3-A44162FA96E1"
+    }
+  ],
+  "overrides": {
+    "ABF3DA77-0F00-49AF-9CB0-B29C5F98E6BC": {
+      "FD3DE8F4-88BC-4347-95FE-86A00CCB22D2": {
+        "symbolID": "AAFDF162-E14E-4527-8FD3-A44162FA96E1"
+      }
+    },
+    "B5BDD6F9-EE0A-4D82-B2D7-7C327216B79B": {
+      "symbolID": ""
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "D3365C91-B90D-4406-8768-A6256297263E",
+  "verticalSpacing": 0
+}

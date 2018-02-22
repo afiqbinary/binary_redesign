@@ -1,0 +1,87 @@
+{
+  "_class": "group",
+  "do_objectID": "CF49FB3E-7DE0-4810-9E11-9F325C5E6AE5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 184,
+    "width": 280,
+    "x": 405,
+    "y": 500
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "76B29A98-AAAE-4EB7-8160-AF4A2BB8A965"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "759868FF-2BAF-4766-82C2-F1284543718F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "06775705-EF29-40C5-9F63-E6B23AA62E8C"
+    },
+    {
+      "class": "group",
+      "id": "D7668FB3-1893-4092-B79D-63BE1F98245F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "62B1F16F-5B59-489C-9C60-40185BF8937C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B163F9B0-56AB-4708-970A-202A8713CF77"
+    }
+  ],
+  "name": "popup settings chande kroll stop copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 8,
+        "color": {
+          "_class": "color",
+          "alpha": 0.14,
+          "blue": 0.3215686274509804,
+          "green": 0.188235294117647,
+          "red": 0.1647058823529412
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "_class": "group",
+  "do_objectID": "DACB4AED-BE1C-4CC9-A801-5407F8051B63",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 528,
+    "width": 200,
+    "x": 405,
+    "y": 156
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FC687607-EBDF-404D-B0BF-CDEC1EB3DFC2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C195A28D-B324-4526-A487-9EBEC288F693"
+    },
+    {
+      "class": "group",
+      "id": "2A0BFE1C-2BD1-4C59-B4F5-C954E1DE6D39"
+    },
+    {
+      "class": "group",
+      "id": "1AAE3B0E-00E1-4E8F-B044-E8E48DA2B2FB"
+    }
+  ],
+  "name": "Drawing Tools",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 8,
+        "color": {
+          "_class": "color",
+          "alpha": 0.14,
+          "blue": 0.3215686274509804,
+          "green": 0.188235294117647,
+          "red": 0.1647058823529412
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  }
+}

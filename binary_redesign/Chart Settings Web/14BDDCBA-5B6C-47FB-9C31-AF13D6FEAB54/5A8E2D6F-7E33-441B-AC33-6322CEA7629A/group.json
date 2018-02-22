@@ -1,0 +1,115 @@
+{
+  "_class": "group",
+  "do_objectID": "5A8E2D6F-7E33-441B-AC33-6322CEA7629A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 398,
+    "width": 200,
+    "x": 285,
+    "y": 286
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "CA26FA3F-2C4A-4F79-807F-118D30401B1A"
+    },
+    {
+      "class": "group",
+      "id": "D099C2DC-4B7E-4919-AA9E-24E3CA263544"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8C010659-B91D-481F-A88B-8E0AA96D71CF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0F204FEA-B926-43DF-BF82-41A981A4D9BC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E6FF256F-8AB3-44C2-A4E7-ECB76952E051"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "70462C13-1CF4-41C0-9816-B93DB239F142"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "30F4C185-0179-4A65-8832-9D57E89E66B3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "929904BB-F3F2-4EE1-BBC6-A3B4547AF962"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "52105CD9-774E-4EB8-808E-1C06404219F3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ADB5DF3B-A72C-4835-BAEB-BD7BB6D8E916"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A009F1E9-30E5-40BF-B45D-3588BA35D6F2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "289B1565-06CD-47C4-BAB8-5DC7974B6EF2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6B452F2D-AC4B-4FC0-AE40-ED1D88FF73F6"
+    }
+  ],
+  "name": "chart line",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 10,
+        "color": {
+          "_class": "color",
+          "alpha": 0.14,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": 6,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  }
+}
