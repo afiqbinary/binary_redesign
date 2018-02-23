@@ -1,0 +1,52 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "D4F15EBD-1348-4DFB-BCA5-39713C988F64",
+  "name": "Tooltip style",
+  "value": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0.88,
+          "blue": 0.1764705882352941,
+          "green": 0.1294117647058824,
+          "red": 0.0823529411764706
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 8,
+        "color": {
+          "_class": "color",
+          "alpha": 0.32,
+          "blue": 0.1764705882352941,
+          "green": 0.1294117647058824,
+          "red": 0.0823529411764706
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "sharedObjectID": "D4F15EBD-1348-4DFB-BCA5-39713C988F64",
+    "startDecorationType": 0
+  }
+}

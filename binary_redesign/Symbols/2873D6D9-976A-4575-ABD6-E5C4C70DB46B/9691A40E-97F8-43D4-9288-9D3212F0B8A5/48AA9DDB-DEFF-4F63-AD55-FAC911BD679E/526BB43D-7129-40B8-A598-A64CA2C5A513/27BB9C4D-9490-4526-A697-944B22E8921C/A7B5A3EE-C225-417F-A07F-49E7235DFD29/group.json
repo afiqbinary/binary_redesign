@@ -1,0 +1,81 @@
+{
+  "_class": "group",
+  "do_objectID": "A7B5A3EE-C225-417F-A07F-49E7235DFD29",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 96,
+    "width": 96,
+    "x": 247,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "EC2C6AF3-4B62-46FC-9BAE-4198EF87F13F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5DC2695F-4539-4C6E-9CDD-EC9D544D3408"
+    },
+    {
+      "class": "text",
+      "id": "1322F624-D633-4455-8B1F-55F5AE895088"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2FFFF701-A831-4F89-B0FB-98FB0309820D"
+    }
+  ],
+  "name": "Buttons/okay",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 10,
+        "color": {
+          "_class": "color",
+          "alpha": 0.3,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": 6,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "userInfo": {
+  }
+}

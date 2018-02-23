@@ -1,0 +1,71 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "5703487E-D464-437E-9919-1A842DDFFEDA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 9.707106781186546,
+    "width": 9.707106781186667,
+    "x": 14,
+    "y": 0.292893218813453
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "AF7CF63B-E8C9-4C63-B4FA-447DA1FAB99E"
+    },
+    {
+      "class": "shapePath",
+      "id": "8D82EB20-43B2-4F0F-AEE3-4CC74F4AC39C"
+    }
+  ],
+  "name": "Rectangle Copy",
+  "nameIsFixed": false,
+  "originalObjectID": "90FB05C5-5381-4A27-AB6A-B511E249B0C4",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4820854272056506,
+          "green": 0.7079878826530612,
+          "red": 0.2016636886392223
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 0
+}

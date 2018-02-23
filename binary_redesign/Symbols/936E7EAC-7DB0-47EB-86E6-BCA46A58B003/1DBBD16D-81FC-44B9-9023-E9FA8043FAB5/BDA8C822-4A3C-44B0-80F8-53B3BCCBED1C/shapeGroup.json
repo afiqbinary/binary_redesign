@@ -1,0 +1,87 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "BDA8C822-4A3C-44B0-80F8-53B3BCCBED1C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 8.626857142857169,
+    "width": 7.699255682036735,
+    "x": 14.15050955055795,
+    "y": 4.711857142857116
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "EBDA5FE2-32A3-4DB8-A66E-7BDBC7448CBB"
+    },
+    {
+      "class": "shapePath",
+      "id": "7F70BB71-2216-4D6A-A4BF-A1789FDB96A9"
+    },
+    {
+      "class": "shapePath",
+      "id": "86D705EE-F50C-425C-91EF-6F27C49FD8B3"
+    },
+    {
+      "class": "shapePath",
+      "id": "2AB78645-5B80-4DD4-AC87-AA91872EDCC6"
+    }
+  ],
+  "name": "Stars-red",
+  "nameIsFixed": true,
+  "originalObjectID": "5501DA71-4A24-4F24-B3BF-63E475D04634",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0.5859375,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2117647058823529,
+          "green": 0.2627450980392156,
+          "red": 0.9568627450980391
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 0
+}
