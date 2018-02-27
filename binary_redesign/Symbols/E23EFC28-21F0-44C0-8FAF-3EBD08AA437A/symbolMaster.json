@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 109,
+  "changeIdentifier": 113,
   "do_objectID": "E23EFC28-21F0-44C0-8FAF-3EBD08AA437A",
   "exportOptions": {
     "_class": "exportOptions",
@@ -15,7 +15,7 @@
       {
         "_class": "exportFormat",
         "absoluteSize": 0,
-        "fileFormat": "png",
+        "fileFormat": "svg",
         "name": "",
         "namingScheme": 0,
         "scale": 1,
@@ -32,8 +32,8 @@
     "constrainProportions": false,
     "height": 16,
     "width": 24,
-    "x": 84740,
-    "y": 3419
+    "x": 15094,
+    "y": 1292
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -55,6 +55,10 @@
     {
       "class": "group",
       "id": "BC67A89B-62B6-49BE-A830-BF97AFF3EBD9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5D1196E7-7A33-412B-8FC5-9A4DCDD2632B"
     }
   ],
   "name": "icons/flags/sweden sek",

@@ -31,11 +31,11 @@
     "constrainProportions": false,
     "height": 803,
     "width": 1440,
-    "x": -580,
-    "y": 3850
+    "x": -338,
+    "y": 6159
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -48,7 +48,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
@@ -71,16 +71,16 @@
       "id": "59EF877F-A685-4E46-92D0-9267303B2194"
     },
     {
-      "class": "symbolInstance",
-      "id": "2B821A74-0D60-41AF-A99F-2A788F1D9582"
-    },
-    {
       "class": "group",
       "id": "6F9D0CE1-5543-433E-AE8A-D5DBCB7B21E3"
     },
     {
       "class": "group",
       "id": "DE30F0B1-1ED4-47A9-9C1F-7AAE82A1F400"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2B821A74-0D60-41AF-A99F-2A788F1D9582"
     }
   ],
   "layout": {
@@ -98,8 +98,8 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1416
   },
-  "name": "30.comparison eurgbp and british american tobacco",
-  "nameIsFixed": false,
+  "name": "40.comparison eurgbp and british american tobacco",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

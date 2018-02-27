@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 114,
+  "changeIdentifier": 118,
   "do_objectID": "AF2A16FD-F89C-43F7-B81B-FD32FFE43C7E",
   "exportOptions": {
     "_class": "exportOptions",
@@ -15,7 +15,7 @@
       {
         "_class": "exportFormat",
         "absoluteSize": 0,
-        "fileFormat": "png",
+        "fileFormat": "svg",
         "name": "",
         "namingScheme": 0,
         "scale": 1,
@@ -32,8 +32,8 @@
     "constrainProportions": false,
     "height": 16,
     "width": 24,
-    "x": 84740,
-    "y": 3303
+    "x": 15094,
+    "y": 1176
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -55,6 +55,10 @@
     {
       "class": "group",
       "id": "5A731455-846F-4681-B484-1113E16E1FF7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1FEE048C-D804-42C1-A639-84BC63031395"
     }
   ],
   "name": "icons/flags/poland pln",

@@ -31,8 +31,8 @@
     "constrainProportions": false,
     "height": 803,
     "width": 1440,
-    "x": -3497,
-    "y": 10965
+    "x": -3255,
+    "y": 13274
   },
   "hasBackgroundColor": true,
   "hasClickThrough": false,
@@ -59,12 +59,12 @@
       "id": "81F681B8-4713-451C-B262-93168D35E595"
     },
     {
-      "class": "shapeGroup",
-      "id": "3E63A3C6-1A45-4F42-9C36-780B86BFB50C"
-    },
-    {
       "class": "group",
       "id": "8321CF25-5B7E-4F4F-B00D-8734DD9BF868"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AC822751-FE9A-4EAF-BE3C-5AF70CB44C3B"
     },
     {
       "class": "symbolInstance",
@@ -86,8 +86,8 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1416
   },
-  "name": "39.chart template main",
-  "nameIsFixed": false,
+  "name": "52.chart template main",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

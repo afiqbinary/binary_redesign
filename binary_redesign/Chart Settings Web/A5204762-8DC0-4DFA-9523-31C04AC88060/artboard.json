@@ -35,7 +35,7 @@
     "y": -3259
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -48,7 +48,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
@@ -64,7 +64,7 @@
     },
     {
       "class": "group",
-      "id": "EBF5ACD3-2A05-45A7-9682-E47D08442EA6"
+      "id": "2858D8F4-F9FD-40B2-8527-D0C8E08A2213"
     },
     {
       "class": "symbolInstance",
@@ -87,7 +87,7 @@
     "totalWidth": 1416
   },
   "name": "26.tab settings chande kroll stop",
-  "nameIsFixed": false,
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

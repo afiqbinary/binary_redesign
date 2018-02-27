@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 107,
+  "changeIdentifier": 111,
   "do_objectID": "3C35B187-33A4-4B96-82DE-8CC914A91B4F",
   "exportOptions": {
     "_class": "exportOptions",
@@ -15,7 +15,7 @@
       {
         "_class": "exportFormat",
         "absoluteSize": 0,
-        "fileFormat": "png",
+        "fileFormat": "svg",
         "name": "",
         "namingScheme": 0,
         "scale": 1,
@@ -32,11 +32,11 @@
     "constrainProportions": false,
     "height": 16,
     "width": 24,
-    "x": 22619,
-    "y": 0
+    "x": 15094,
+    "y": 1408
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -55,6 +55,10 @@
     {
       "class": "group",
       "id": "2DBAAFFC-8C12-48D9-864D-B101C80EE0D7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "80BE5F2C-71F9-44C7-BA5D-99769849FCFE"
     }
   ],
   "name": "icons/flags/switzerland chf",

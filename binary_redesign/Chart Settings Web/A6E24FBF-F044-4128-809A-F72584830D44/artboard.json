@@ -59,16 +59,16 @@
       "id": "B38A3F63-223F-4C71-8B5E-416B9183347D"
     },
     {
-      "class": "shapeGroup",
-      "id": "ACB574DA-E85C-4788-A865-62F04268DA1F"
-    },
-    {
       "class": "symbolInstance",
       "id": "E2FA7F68-BA31-4455-A692-B6DC3CA320B2"
     },
     {
       "class": "group",
       "id": "E4D1635F-CD9D-4D91-8054-34C11D62E317"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0D588355-47E9-4E61-97CC-36B088750FA0"
     }
   ],
   "layout": {
@@ -87,7 +87,7 @@
     "totalWidth": 1416
   },
   "name": "16.indicator with active and favorites",
-  "nameIsFixed": false,
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

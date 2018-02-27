@@ -67,6 +67,10 @@
       "id": "CB3CDE3E-938C-4B15-8752-14E842992447"
     },
     {
+      "class": "shapeGroup",
+      "id": "22EECAD8-3463-44DD-A7FE-FC6D81E48461"
+    },
+    {
       "class": "symbolInstance",
       "id": "EF0C2A03-D354-4995-B916-B4BDF1065997"
     }
@@ -87,7 +91,7 @@
     "totalWidth": 1416
   },
   "name": "20.indicator - momentum indicators section",
-  "nameIsFixed": false,
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

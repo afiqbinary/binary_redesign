@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 704,
+  "changeIdentifier": 708,
   "do_objectID": "5F6DEADF-2553-45DB-93A4-E57A86252736",
   "exportOptions": {
     "_class": "exportOptions",
@@ -15,7 +15,7 @@
       {
         "_class": "exportFormat",
         "absoluteSize": 0,
-        "fileFormat": "png",
+        "fileFormat": "svg",
         "name": "",
         "namingScheme": 0,
         "scale": 1,
@@ -32,8 +32,8 @@
     "constrainProportions": false,
     "height": 16,
     "width": 24,
-    "x": 84740,
-    "y": 2823
+    "x": 15094,
+    "y": 696
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -55,6 +55,10 @@
     {
       "class": "group",
       "id": "473DB028-C6F0-4479-95FB-009D7EC408D3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1C486083-AD91-42BE-8A8D-AEC77E669136"
     }
   ],
   "name": "icons/flags/mexico mxn",
