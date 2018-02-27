@@ -31,11 +31,11 @@
     "constrainProportions": false,
     "height": 803,
     "width": 1440,
-    "x": -553,
-    "y": 8121
+    "x": -311,
+    "y": 10430
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -48,7 +48,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
@@ -90,8 +90,8 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1416
   },
-  "name": "36.average line hover",
-  "nameIsFixed": false,
+  "name": "49.average line hover",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

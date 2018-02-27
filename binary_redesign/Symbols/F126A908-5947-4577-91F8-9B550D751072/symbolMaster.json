@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1846,
+  "changeIdentifier": 3073,
   "do_objectID": "F126A908-5947-4577-91F8-9B550D751072",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 16,
     "width": 16,
-    "x": 101686,
-    "y": 0
+    "x": 15326,
+    "y": 232
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -41,39 +41,19 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "group",
+      "id": "F71ED08A-97B7-4257-9BDB-D8975FE76A4B"
+    },
     {
       "class": "group",
       "id": "59DE27B6-3E72-4FCA-80E6-F852C64A9270"
     },
     {
-      "class": "shapeGroup",
-      "id": "5882A12E-2C68-4007-9509-3BA1385FF6E5"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "B9956917-6A61-4605-B3E1-38EF87821809"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "3E641C56-AD39-4976-AEC2-718A0624367D"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "250E2172-F08E-4BDF-8190-A84DE0792955"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "1234BD88-B37B-41EF-B024-0BFBA10AB4AA"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "64904E01-7C68-42ED-90A3-95D801E7AF01"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "EA655494-1531-41F3-9091-B37C25FC8F00"
+      "class": "group",
+      "id": "F3F48D30-9FBD-4CA3-8E71-DAC22283CB0C"
     }
   ],
   "name": "icons/flat/settings",

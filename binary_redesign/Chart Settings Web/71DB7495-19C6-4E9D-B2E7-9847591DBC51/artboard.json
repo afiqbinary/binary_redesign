@@ -31,8 +31,8 @@
     "constrainProportions": false,
     "height": 803,
     "width": 1440,
-    "x": -1957,
-    "y": 18854
+    "x": -1715,
+    "y": 21163
   },
   "hasBackgroundColor": true,
   "hasClickThrough": false,
@@ -63,6 +63,10 @@
       "id": "94345134-BD6A-4C8D-AC80-A0C74D43992D"
     },
     {
+      "class": "shapeGroup",
+      "id": "971A0FEE-BCBA-4C91-8A97-41AE948061D1"
+    },
+    {
       "class": "group",
       "id": "FF369C1C-315C-4C5D-B2BB-76C92ECBB542"
     },
@@ -86,8 +90,8 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1416
   },
-  "name": "49.time interval",
-  "nameIsFixed": false,
+  "name": "62.time interval",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

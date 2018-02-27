@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 140,
+  "changeIdentifier": 144,
   "do_objectID": "CF257171-53AE-4EF9-8D8A-ACEE40CB7CCA",
   "exportOptions": {
     "_class": "exportOptions",
@@ -15,7 +15,7 @@
       {
         "_class": "exportFormat",
         "absoluteSize": 0,
-        "fileFormat": "png",
+        "fileFormat": "svg",
         "name": "",
         "namingScheme": 0,
         "scale": 1,
@@ -32,8 +32,8 @@
     "constrainProportions": false,
     "height": 16,
     "width": 24,
-    "x": 84740,
-    "y": 3055
+    "x": 15094,
+    "y": 928
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -55,6 +55,10 @@
     {
       "class": "group",
       "id": "7EBD894D-6AD5-4DD1-8188-8A46763AED4D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "24A01461-2CFA-4732-B642-8A1611184378"
     }
   ],
   "name": "icons/flags/norwegian nok",

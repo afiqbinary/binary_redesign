@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 2933,
+  "changeIdentifier": 5274,
   "do_objectID": "06FE2914-A9AE-41DB-80A3-C4AAFECFE928",
   "exportOptions": {
     "_class": "exportOptions",
@@ -15,7 +15,7 @@
       {
         "_class": "exportFormat",
         "absoluteSize": 0,
-        "fileFormat": "png",
+        "fileFormat": "svg",
         "name": "",
         "namingScheme": 0,
         "scale": 1,
@@ -32,8 +32,8 @@
     "constrainProportions": false,
     "height": 16,
     "width": 24,
-    "x": 20575,
-    "y": 0
+    "x": 15094,
+    "y": 1640
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -50,15 +50,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "5130FCEB-D3BE-49F8-9408-055D0140FBC6"
+      "id": "1D6B4438-09C5-4701-9288-E7948639C8F2"
     },
     {
       "class": "shapeGroup",
-      "id": "C3AB21BE-AF56-4027-8F31-02941A25B53C"
+      "id": "5130FCEB-D3BE-49F8-9408-055D0140FBC6"
     },
     {
       "class": "shapeGroup",
@@ -67,6 +67,14 @@
     {
       "class": "shapeGroup",
       "id": "61B90F96-5780-43B6-9A2A-A86F2933B719"
+    },
+    {
+      "class": "group",
+      "id": "4409C1C9-0EBD-4FF7-95D5-02F57E85868D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5628BCBE-B744-4722-8830-B6C42B4FFC10"
     }
   ],
   "name": "icons/flags/us usd",

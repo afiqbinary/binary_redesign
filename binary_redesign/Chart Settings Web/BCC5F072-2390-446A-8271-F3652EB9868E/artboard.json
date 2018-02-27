@@ -63,6 +63,10 @@
       "id": "F25E15A4-E732-4355-A77D-3EEFEAD39510"
     },
     {
+      "class": "shapeGroup",
+      "id": "5A7DEBD1-1B02-4F76-977C-3E9FE13ED003"
+    },
+    {
       "class": "group",
       "id": "8104C87F-9731-4396-8D0B-D8D58021D2D3"
     },
@@ -87,7 +91,7 @@
     "totalWidth": 1416
   },
   "name": "23.indicator chande kroll stop hover menu",
-  "nameIsFixed": false,
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

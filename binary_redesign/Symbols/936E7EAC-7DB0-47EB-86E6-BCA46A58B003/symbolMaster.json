@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 438,
+  "changeIdentifier": 462,
   "do_objectID": "936E7EAC-7DB0-47EB-86E6-BCA46A58B003",
   "exportOptions": {
     "_class": "exportOptions",
@@ -15,7 +15,7 @@
       {
         "_class": "exportFormat",
         "absoluteSize": 0,
-        "fileFormat": "png",
+        "fileFormat": "svg",
         "name": "",
         "namingScheme": 0,
         "scale": 1,
@@ -32,11 +32,11 @@
     "constrainProportions": false,
     "height": 16,
     "width": 24,
-    "x": 84740,
-    "y": 2939
+    "x": 15094,
+    "y": 812
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -55,6 +55,10 @@
     {
       "class": "group",
       "id": "1DBBD16D-81FC-44B9-9023-E9FA8043FAB5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F8B0E9E7-DAD0-4A64-893A-D115E11E337A"
     }
   ],
   "name": "icons/flags/new zealand nzd",

@@ -31,11 +31,11 @@
     "constrainProportions": false,
     "height": 803,
     "width": 1440,
-    "x": -2120,
-    "y": 3850
+    "x": -1878,
+    "y": 6159
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -48,7 +48,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -64,19 +64,27 @@
     },
     {
       "class": "shapeGroup",
-      "id": "C57187B9-8C4F-4898-85A7-C6427E30A724"
+      "id": "401216AA-F2AB-45A3-9895-A373E1D055CF"
     },
     {
       "class": "shapeGroup",
-      "id": "209F77D3-1360-4465-81A4-17BDEABB5B70"
+      "id": "45550C90-1F2D-4FD5-AC90-68810720FE39"
     },
     {
-      "class": "shapeGroup",
-      "id": "B6FCDB83-2E96-407C-B349-3DEF7036650F"
+      "class": "group",
+      "id": "57968B7D-6642-4B51-AF47-32E20433F69C"
+    },
+    {
+      "class": "group",
+      "id": "4887ABF1-8040-48E2-833E-BF17000F09F6"
     },
     {
       "class": "group",
       "id": "C352024E-1870-4C24-8C90-5A86945E921C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9E8FDE11-EB8A-4E38-981D-DB37BCCE7119"
     },
     {
       "class": "symbolInstance",
@@ -98,8 +106,8 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1416
   },
-  "name": "29.comparison with active and favorites",
-  "nameIsFixed": false,
+  "name": "39.comparison with active and favorites",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
