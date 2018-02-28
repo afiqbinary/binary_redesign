@@ -1,0 +1,88 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "68C270B0-F963-402A-A159-48F59D210515",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 65,
+    "width": 174,
+    "x": 294,
+    "y": 487
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 8,
+  "masterInfluenceEdgeMaxYPadding": 10,
+  "masterInfluenceEdgeMinXPadding": 8,
+  "masterInfluenceEdgeMinYPadding": 6,
+  "name": "elements/Tooltip/compare/top",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "26B39B5F-64D4-49C7-86F6-B8C7E59E8F41",
+      "overrideName": "EFD413CC-2F65-4285-A611-6929894CA0EC_stringValue",
+      "value": "British American Tobacco"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CC440BFD-C070-4B90-B459-050A8E201C4C",
+      "overrideName": "060C6919-A426-4F7A-9031-6E30028D84A8_symbolID",
+      "value": "ABA191C4-5A6D-4C84-B301-386C3C7C4911"
+    }
+  ],
+  "overrides": {
+    "060C6919-A426-4F7A-9031-6E30028D84A8": {
+      "symbolID": "ABA191C4-5A6D-4C84-B301-386C3C7C4911"
+    },
+    "EFD413CC-2F65-4285-A611-6929894CA0EC": "British American Tobacco"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "8CE427DE-2520-4261-B7C4-437C85AEA816",
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 1,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "70375EA9-F27E-4E8E-ADB0-91F47BCA1A11",
+      "transition": 0
+    }
+  },
+  "verticalSpacing": 0
+}
