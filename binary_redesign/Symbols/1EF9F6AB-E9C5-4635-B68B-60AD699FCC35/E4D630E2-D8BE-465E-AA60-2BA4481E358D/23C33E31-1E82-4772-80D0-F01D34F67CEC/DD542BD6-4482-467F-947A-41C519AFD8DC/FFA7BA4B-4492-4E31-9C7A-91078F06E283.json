@@ -20,6 +20,7 @@
     "x": 1.280560947337372,
     "y": 4.885063317600004
   },
+  "isClosed": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -94,6 +95,69 @@
       }
     ]
   },
+  "pointRadiusBehaviour": 1,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.9100502285906269, 0.95427833825877229}",
+      "curveMode": 4,
+      "curveTo": "{1, 0.9009477224090493}",
+      "hasCurveFrom": true,
+      "hasCurveTo": false,
+      "point": "{1, 0.9009477224090493}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.15859568883448075, 1}",
+      "curveMode": 3,
+      "curveTo": "{0.72590586509862964, 1}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.52583331736605121, 1}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.0059842789152073682, 0.25901015659499299}",
+      "curveMode": 3,
+      "curveTo": "{-0.0066289025138821433, 0.76303542919256773}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.00020323742687460347, 0.48741465403036788}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.63409645796573699, 0.00013587418050901482}",
+      "curveMode": 4,
+      "curveTo": "{0.17537283720971195, 0.00013587418050901482}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.63409645796573699, 0.00013587418050901482}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{1, 0}",
+      "curveMode": 2,
+      "curveTo": "{1, 0}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{1, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{1, 0.90094772240904886}",
+      "curveMode": 4,
+      "curveTo": "{1, 0.90094772240904886}",
+      "hasCurveFrom": false,
+      "hasCurveTo": true,
+      "point": "{1, 0.90094772240904886}"
+    }
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
