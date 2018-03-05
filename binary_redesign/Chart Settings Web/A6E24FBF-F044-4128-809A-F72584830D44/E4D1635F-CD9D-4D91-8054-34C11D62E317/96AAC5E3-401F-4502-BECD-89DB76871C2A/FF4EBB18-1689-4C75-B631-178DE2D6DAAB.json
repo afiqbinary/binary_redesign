@@ -32,10 +32,19 @@
       "_class": "overrideValue",
       "overrideName": "61E7FA8D-CE88-4116-B503-268F047478D7_stringValue",
       "value": "\"AUD/JPY\" or \"Apple\""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EE35E37C-7EC7-49E9-AF02-B51EF27C790B",
+      "overrideName": "A9AA22AF-A296-481F-852D-DD2A70C4236C_symbolID",
+      "value": "31A7C71D-450C-4A8E-971B-293A683C1674"
     }
   ],
   "overrides": {
-    "61E7FA8D-CE88-4116-B503-268F047478D7": "\"AUD/JPY\" or \"Apple\""
+    "61E7FA8D-CE88-4116-B503-268F047478D7": "\"AUD/JPY\" or \"Apple\"",
+    "A9AA22AF-A296-481F-852D-DD2A70C4236C": {
+      "symbolID": "31A7C71D-450C-4A8E-971B-293A683C1674"
+    }
   },
   "resizingConstraint": 18,
   "resizingType": 0,
