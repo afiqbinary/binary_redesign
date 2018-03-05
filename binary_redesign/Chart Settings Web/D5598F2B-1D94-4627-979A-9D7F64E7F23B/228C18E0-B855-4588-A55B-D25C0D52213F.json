@@ -16,7 +16,7 @@
     "height": 32,
     "width": 434,
     "x": 317,
-    "y": 715
+    "y": 692
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -27,8 +27,17 @@
   "name": "elements/chart settings/flat 2 active",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E4DCF12D-BEC0-4D23-BFC7-C0ADFCA71D97",
+      "overrideName": "FD3DE8F4-88BC-4347-95FE-86A00CCB22D2_symbolID",
+      "value": "AAFDF162-E14E-4527-8FD3-A44162FA96E1"
+    }
   ],
   "overrides": {
+    "FD3DE8F4-88BC-4347-95FE-86A00CCB22D2": {
+      "symbolID": "AAFDF162-E14E-4527-8FD3-A44162FA96E1"
+    }
   },
   "resizingConstraint": 63,
   "resizingType": 0,
