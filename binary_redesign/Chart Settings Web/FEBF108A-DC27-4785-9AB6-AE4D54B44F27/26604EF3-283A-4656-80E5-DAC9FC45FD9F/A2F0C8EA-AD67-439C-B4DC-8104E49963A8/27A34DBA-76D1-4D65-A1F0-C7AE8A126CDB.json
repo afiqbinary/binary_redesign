@@ -30,12 +30,22 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "5D4E957D-7700-442F-81A2-A49916C417CD_stringValue",
+      "do_objectID": "7F3F9468-9878-4CDE-A6C1-0509163AB794",
+      "overrideName": "C363BFC0-6C86-4FFB-863E-7A420EF34696_stringValue",
       "value": "Active"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "69190925-63CA-45E9-A6EA-8BEC314B8B63",
+      "overrideName": "FDBB45C3-33AE-42E3-92AB-19E7CF1BCEED_symbolID",
+      "value": "17619A50-ABA0-412F-AA76-65F80B703320"
     }
   ],
   "overrides": {
-    "5D4E957D-7700-442F-81A2-A49916C417CD": "Active"
+    "C363BFC0-6C86-4FFB-863E-7A420EF34696": "Active",
+    "FDBB45C3-33AE-42E3-92AB-19E7CF1BCEED": {
+      "symbolID": "17619A50-ABA0-412F-AA76-65F80B703320"
+    }
   },
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -48,7 +58,7 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "91BA48D1-40F7-4F61-9A1B-47A5FF72289B",
+  "symbolID": "F02216A6-B7D1-4DB8-A861-46BAAE9D5383",
   "userInfo": {
     "com.invision.prototype": {
       "backgroundOpacity": 0,

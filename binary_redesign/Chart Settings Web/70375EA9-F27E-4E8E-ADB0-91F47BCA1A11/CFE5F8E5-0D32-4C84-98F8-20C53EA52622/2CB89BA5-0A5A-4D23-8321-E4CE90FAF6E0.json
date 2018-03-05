@@ -16,7 +16,7 @@
     "height": 40,
     "width": 90,
     "x": 140,
-    "y": 212
+    "y": 304
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -31,11 +31,11 @@
     {
       "_class": "overrideValue",
       "overrideName": "B1FA7810-8971-4B02-A491-34DA7BCA88D6_stringValue",
-      "value": "Cancel"
+      "value": "Reset"
     }
   ],
   "overrides": {
-    "B1FA7810-8971-4B02-A491-34DA7BCA88D6": "Cancel"
+    "B1FA7810-8971-4B02-A491-34DA7BCA88D6": "Reset"
   },
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -50,26 +50,6 @@
   },
   "symbolID": "BCD76950-F6B3-4473-B867-7958B8868076",
   "userInfo": {
-    "com.invision.prototype": {
-      "backgroundOpacity": 0,
-      "closeOnClickOutside": 1,
-      "componentType": "SRLink",
-      "fixOverlayPosition": 1,
-      "gesture": 0,
-      "linkType": 0,
-      "maintainScrollPositionAfterGesture": 1,
-      "maintainScrollPositionAfterRedirect": 0,
-      "openURLInNewWindow": 0,
-      "overlayPosition": 0,
-      "overlayTransition": 0,
-      "redirectAfter": 0,
-      "reverseTransitionOnClose": 1,
-      "scrollToPosition": 0,
-      "smoothScrolling": 0,
-      "stayOnTargetScreen": 0,
-      "targetArtboardID": "352DBD33-998D-4D2E-8BB7-60E1053AE5C6",
-      "transition": 0
-    }
   },
   "verticalSpacing": 0
 }
