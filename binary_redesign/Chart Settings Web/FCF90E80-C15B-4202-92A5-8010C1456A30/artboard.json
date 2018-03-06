@@ -31,8 +31,8 @@
     "constrainProportions": false,
     "height": 803,
     "width": 1440,
-    "x": -1857,
-    "y": -11295
+    "x": -1978,
+    "y": -10952
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -49,7 +49,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -60,12 +60,12 @@
       "id": "0BE0768D-8364-4D48-9D0F-E7B3F806A0EE"
     },
     {
-      "class": "symbolInstance",
-      "id": "A040363B-32F4-439B-B6DC-B60467E868B1"
+      "class": "group",
+      "id": "7FE54155-69A5-4E69-872A-76424B0B344F"
     },
     {
-      "class": "group",
-      "id": "34CCF618-EBCA-42D0-AB5A-5958FC67B263"
+      "class": "symbolInstance",
+      "id": "A040363B-32F4-439B-B6DC-B60467E868B1"
     }
   ],
   "layout": {

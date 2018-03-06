@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1691,
+  "changeIdentifier": 1981,
   "do_objectID": "909BBFB0-D49F-4BC3-B562-557D1DE27840",
   "exportOptions": {
     "_class": "exportOptions",
@@ -32,7 +32,7 @@
     "constrainProportions": false,
     "height": 16,
     "width": 16,
-    "x": 15774,
+    "x": 16461,
     "y": 2012
   },
   "hasBackgroundColor": false,
@@ -51,7 +51,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -60,6 +60,14 @@
     {
       "class": "group",
       "id": "1EE4B8D9-04EB-405D-8990-C373CEA57391"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CCCA0BB4-A3D9-400A-8C6D-A95968713244"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F755BE38-9432-41BB-AF09-BFFAF72963A3"
     }
   ],
   "name": "icons/system/binary/chart settings/chart types/ic-spline",

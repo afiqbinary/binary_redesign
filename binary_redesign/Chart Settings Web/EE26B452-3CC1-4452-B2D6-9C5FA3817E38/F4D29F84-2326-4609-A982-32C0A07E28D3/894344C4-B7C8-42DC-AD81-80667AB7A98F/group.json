@@ -23,15 +23,19 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "FDAD1816-FF7B-44F3-8E83-D1A31AD523D7"
+      "class": "symbolInstance",
+      "id": "3FAAEC11-D84F-4256-B44A-B680C7F60535"
+    },
+    {
+      "class": "text",
+      "id": "0FD12FF8-CC4A-4D80-ACCA-0CF17560A8DA"
     }
   ],
-  "name": "Group 2",
-  "nameIsFixed": false,
+  "name": "Toggle",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

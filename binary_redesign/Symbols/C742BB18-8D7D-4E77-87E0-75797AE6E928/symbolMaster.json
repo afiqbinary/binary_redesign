@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 105,
+  "changeIdentifier": 174,
   "do_objectID": "C742BB18-8D7D-4E77-87E0-75797AE6E928",
   "exportOptions": {
     "_class": "exportOptions",
@@ -32,7 +32,7 @@
     "constrainProportions": false,
     "height": 16,
     "width": 16,
-    "x": 15774,
+    "x": 16461,
     "y": 1548
   },
   "hasBackgroundColor": false,
@@ -51,7 +51,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -60,6 +60,22 @@
     {
       "class": "group",
       "id": "2EC9777C-356F-4E77-9D8C-BD8C26E522EC"
+    },
+    {
+      "class": "group",
+      "id": "27F245F2-7260-47F7-978A-1990FE82A5DF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BCF83FAD-3D71-40C5-946C-C95043E8ABB6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E60143CC-AC43-4CEC-B464-7B8735A02B5A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5E4FFA34-47C7-498F-8DE8-30706989159E"
     }
   ],
   "name": "icons/system/binary/chart settings/chart types/ic-dot",

@@ -26,7 +26,7 @@
     "y": 169
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -40,7 +40,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -49,6 +49,38 @@
     {
       "class": "group",
       "id": "403BB88F-D7A3-43D5-BCCA-D4DD78A883B7"
+    },
+    {
+      "class": "group",
+      "id": "51C03D89-2754-4246-8D68-039FB10C4F67"
+    },
+    {
+      "class": "group",
+      "id": "E837968B-2ADC-40E5-A1F3-CE4075E9EC51"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E27DAC50-E902-4F81-B3CA-13B8B342A33C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DC757EC7-1951-4FCD-924A-C49DA5E8AC6A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "718E95D1-9783-4E8E-901C-2D394D3A54EB"
+    },
+    {
+      "class": "group",
+      "id": "976DAE0A-36E9-4138-9926-8A9740F6B8A7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0CB27285-A6AE-480B-A8FB-97FB1EA49B14"
+    },
+    {
+      "class": "group",
+      "id": "921FA1D4-6EBB-4B49-B7D1-0C5112DBC5E9"
     }
   ],
   "name": "Artboard",

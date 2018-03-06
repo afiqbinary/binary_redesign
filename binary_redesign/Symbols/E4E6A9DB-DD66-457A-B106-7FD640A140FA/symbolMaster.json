@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 278,
+  "changeIdentifier": 341,
   "do_objectID": "E4E6A9DB-DD66-457A-B106-7FD640A140FA",
   "exportOptions": {
     "_class": "exportOptions",
@@ -32,7 +32,7 @@
     "constrainProportions": false,
     "height": 24,
     "width": 24,
-    "x": 15774,
+    "x": 16461,
     "y": 1052
   },
   "hasBackgroundColor": false,
@@ -51,19 +51,23 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
       "id": "A14DA207-9602-404F-AA1C-45C4C7E72AD7"
     },
     {
+      "class": "group",
+      "id": "CF4B46B6-01A7-4DD6-9985-DD71E9AF11A0"
+    },
+    {
       "class": "shapeGroup",
       "id": "57F00B53-D64C-4C67-98FD-557DC30CDB0E"
     },
     {
-      "class": "group",
-      "id": "CF4B46B6-01A7-4DD6-9985-DD71E9AF11A0"
+      "class": "shapeGroup",
+      "id": "974C090C-F543-494F-A5FE-AC5BA1E7B772"
     }
   ],
   "name": "icons/system/binary/chart settings/chart types/ic-candle-hollow active",

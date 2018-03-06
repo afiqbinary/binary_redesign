@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 210,
+  "changeIdentifier": 323,
   "do_objectID": "C9C3FD51-9861-43C6-ACE6-8CE7931CC8FB",
   "exportOptions": {
     "_class": "exportOptions",
@@ -32,7 +32,7 @@
     "constrainProportions": false,
     "height": 24,
     "width": 24,
-    "x": 15774,
+    "x": 16461,
     "y": 680
   },
   "hasBackgroundColor": false,
@@ -51,34 +51,38 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
       "id": "0A25A80C-006F-44E8-A1D4-96D57730E357"
     },
     {
-      "class": "shapeGroup",
-      "id": "6930F52B-D9DF-4865-BD69-1C0A1741AA58"
+      "class": "group",
+      "id": "D7CB71FD-10A6-4D48-ABC8-524B7EE28A03"
     },
     {
       "class": "shapeGroup",
-      "id": "81A9E973-CA6C-49AD-868D-8D4406699B11"
+      "id": "2FADA782-846B-415D-A88B-2394F4BEA975"
     },
     {
       "class": "shapeGroup",
-      "id": "0D0DDF34-097E-4204-B11D-1D59020608E5"
+      "id": "B62C8D2E-168F-4A62-ACB4-6C228A950165"
     },
     {
       "class": "shapeGroup",
-      "id": "57190D46-5B56-4E22-85CA-11A9DA85DB7E"
+      "id": "BDB971B4-D1C7-4EC2-9FD6-535B4568AE85"
     },
     {
       "class": "shapeGroup",
-      "id": "021C82B0-8227-4F14-840F-4508AD8EE216"
+      "id": "5A7EAC5D-0013-4672-89FD-F696C04E06B0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2AED2835-4822-439B-A596-F20BE90E241C"
     }
   ],
-  "name": "icons/system/binary/chart settings/chart template/ic-charttemplate-active-light",
+  "name": "icons/system/light/chart settings/chart template/ic-charttemplate-active",
   "nameIsFixed": true,
   "originalObjectID": "C9C3FD51-9861-43C6-ACE6-8CE7931CC8FB",
   "resizesContent": false,
