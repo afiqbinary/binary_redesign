@@ -43,22 +43,22 @@
     "shadows": [
       {
         "_class": "shadow",
-        "blurRadius": 4,
+        "blurRadius": 6,
         "color": {
           "_class": "color",
-          "alpha": 0.04,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "alpha": 0.14,
+          "blue": 0.6078431372549019,
+          "green": 0.2039215686274509,
+          "red": 0.1333333333333333
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
           "blendMode": 0,
           "opacity": 1
         },
-        "isEnabled": true,
+        "isEnabled": false,
         "offsetX": 0,
-        "offsetY": 2,
+        "offsetY": 1,
         "spread": 0
       }
     ],
