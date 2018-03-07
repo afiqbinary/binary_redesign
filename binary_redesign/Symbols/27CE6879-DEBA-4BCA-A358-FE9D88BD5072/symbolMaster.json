@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1586,
+  "changeIdentifier": 1831,
   "do_objectID": "27CE6879-DEBA-4BCA-A358-FE9D88BD5072",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,13 +21,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 19,
-    "width": 19,
-    "x": 21569,
-    "y": 119
+    "height": 16,
+    "width": 16,
+    "x": 47666,
+    "y": 4032
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -42,18 +42,14 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "764039D8-1FC9-43C8-B14C-2AFA0EC07E3C"
-    },
-    {
       "class": "shapeGroup",
-      "id": "05A48B9A-45C3-484A-9398-E999424B967E"
+      "id": "6CCF5ADD-7635-4243-AAB2-E30A3E1BDB66"
     }
   ],
-  "name": "Select/_Icon/Down/normal",
+  "name": "icons/system/light/dropdown/ic-dropdown",
   "nameIsFixed": true,
   "originalObjectID": "AB913DBC-031A-4D20-9A97-F5F9B3128059",
   "resizesContent": false,

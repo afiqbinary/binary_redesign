@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "36CD8A14-78ED-413C-AE4A-81A5F03E5E46",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5B49FA0B-A414-4AEA-8389-F266415E1ED8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "86044EBE-F749-40C6-A0E2-B4A59B154870",
+    "height": 40,
+    "width": 570,
+    "x": 854,
+    "y": 92
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "name": "Alert/Default/Info",
+  "nameIsFixed": false,
+  "originalObjectID": "BA27EB0C-20F6-4B0C-96EB-3C1EF2E20A04",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DA171F5A-DD29-4EC5-9CBD-9252C1CB9C1F",
+      "overrideName": "F378410B-31C9-455D-ADDA-B6104116E9FF_stringValue",
+      "value": "This is Beta version and therefore unexpected issues are possible."
+    }
+  ],
+  "overrides": {
+    "F378410B-31C9-455D-ADDA-B6104116E9FF": "This is Beta version and therefore unexpected issues are possible."
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "43E6453B-C9DD-42CF-9CD1-16441A651F13",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "BDB4309E-176E-4827-9A2F-B546AECB2D49",
+  "verticalSpacing": 0
+}

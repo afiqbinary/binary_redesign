@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1257,
+  "changeIdentifier": 1329,
   "do_objectID": "704127E2-C306-49EC-A5A9-F49AEAB3E20B",
   "exportOptions": {
     "_class": "exportOptions",
@@ -32,11 +32,11 @@
     "constrainProportions": false,
     "height": 16,
     "width": 16,
-    "x": 16461,
-    "y": 10255
+    "x": 47666,
+    "y": 10719
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -64,12 +64,36 @@
     {
       "class": "shapeGroup",
       "id": "725323C0-99B2-4D89-8700-D57CAC39095E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E6EC5F2C-C70C-4ED8-8685-3CF4138F48C1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FEDD4DD9-E9BC-4E05-B892-E5F1AD24CD99"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "92BA7286-97DC-436B-B912-C9DA3C70EEBF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4988D292-0BF4-40FC-9B57-E6C6F4AB6F2B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1E729BED-CD5D-44A7-8231-6454F25043EB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "03E3C874-9D78-4CCF-B10D-EA61C21DB12F"
     }
   ],
-  "name": "icons/system/binary/save/ic-templatelist-light",
+  "name": "icons/system/light/template-list/ic-templatelist",
   "nameIsFixed": true,
   "originalObjectID": "704127E2-C306-49EC-A5A9-F49AEAB3E20B",
-  "resizesContent": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 163,
+  "changeIdentifier": 180,
   "do_objectID": "DE1DB734-2777-47C3-95B0-92534F3C96B7",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,13 +21,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 24,
-    "x": 16461,
-    "y": 6871
+    "height": 16,
+    "width": 16,
+    "x": 47666,
+    "y": 5267
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -42,7 +42,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
@@ -53,7 +53,7 @@
       "id": "09FC9606-5AE9-4069-9E7D-9A9B3F67860E"
     }
   ],
-  "name": "icons/system/binary/header/cashier/ic-cashier-normal-light",
+  "name": "icons/system/light/header/cashier/ic-cashier-normal",
   "nameIsFixed": true,
   "originalObjectID": "DE1DB734-2777-47C3-95B0-92534F3C96B7",
   "resizesContent": false,

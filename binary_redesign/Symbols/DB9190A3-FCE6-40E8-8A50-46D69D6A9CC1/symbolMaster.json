@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1082,
+  "changeIdentifier": 1359,
   "do_objectID": "DB9190A3-FCE6-40E8-8A50-46D69D6A9CC1",
   "exportOptions": {
     "_class": "exportOptions",
@@ -32,11 +32,11 @@
     "constrainProportions": false,
     "height": 16,
     "width": 16,
-    "x": 16461,
-    "y": 4363
+    "x": 47666,
+    "y": 3452
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -55,7 +55,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
@@ -74,10 +74,10 @@
       "id": "9CCF56C7-308C-41D2-80CC-A7AFAC34A0D9"
     }
   ],
-  "name": "icons/system/binary/close/ic-close-light",
+  "name": "icons/system/light/close/ic-close",
   "nameIsFixed": true,
   "originalObjectID": "DB9190A3-FCE6-40E8-8A50-46D69D6A9CC1",
-  "resizesContent": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

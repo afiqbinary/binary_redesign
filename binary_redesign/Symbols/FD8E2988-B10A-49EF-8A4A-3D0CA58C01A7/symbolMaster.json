@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1293,
+  "changeIdentifier": 1704,
   "do_objectID": "FD8E2988-B10A-49EF-8A4A-3D0CA58C01A7",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,13 +21,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 36,
-    "width": 36,
-    "x": 16461,
-    "y": 14147
+    "height": 16,
+    "width": 16,
+    "x": 47666,
+    "y": 7239
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -45,15 +45,23 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "90568964-FAB7-4877-8B0A-00CB1527DE51"
-    },
-    {
       "class": "group",
       "id": "58184514-1741-4BEE-899F-AD18D4DE8B7B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "22601FB6-4FA2-4D0C-8CAF-483862F1DE52"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "063C2AD8-413E-4A5F-92BA-0F7D3AB8BEAD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "633261E1-2EB5-4426-B1C6-E7F7BB461533"
     }
   ],
-  "name": "icons/system/google/notification/ic-notification-normal-light",
+  "name": "icons/system/light/notification/ic-notification-normal",
   "nameIsFixed": true,
   "originalObjectID": "FD8E2988-B10A-49EF-8A4A-3D0CA58C01A7",
   "resizesContent": false,

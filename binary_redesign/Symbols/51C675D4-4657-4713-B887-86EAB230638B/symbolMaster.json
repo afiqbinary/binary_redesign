@@ -7,7 +7,7 @@
     "green": 0.188235294117647,
     "red": 0.1647058823529412
   },
-  "changeIdentifier": 3143,
+  "changeIdentifier": 3171,
   "do_objectID": "51C675D4-4657-4713-B887-86EAB230638B",
   "exportOptions": {
     "_class": "exportOptions",
@@ -32,11 +32,11 @@
     "constrainProportions": false,
     "height": 16,
     "width": 16,
-    "x": 16461,
-    "y": 4943
+    "x": 46650,
+    "y": 464
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -51,7 +51,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
@@ -62,11 +62,19 @@
       "id": "C27EBE2A-F52D-40CF-A9FE-10CF44BE798A"
     },
     {
-      "class": "group",
-      "id": "9853665E-8E21-4423-8C7F-5E918F0A2486"
+      "class": "shapeGroup",
+      "id": "0EE48243-7E2A-47FB-AF53-C0B5B14BDE6D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "177BA6BE-9C66-410F-A2D2-62DC841C7502"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6793C770-1C4A-4725-ADE1-45D1011869D7"
     }
   ],
-  "name": "icons/system/binary/download/ic-download-dark",
+  "name": "icons/system/dark/download/ic-download",
   "nameIsFixed": true,
   "originalObjectID": "51C675D4-4657-4713-B887-86EAB230638B",
   "resizesContent": false,

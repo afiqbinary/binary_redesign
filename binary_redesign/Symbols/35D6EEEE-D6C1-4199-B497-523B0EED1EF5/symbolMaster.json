@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 234,
+  "changeIdentifier": 1959,
   "do_objectID": "35D6EEEE-D6C1-4199-B497-523B0EED1EF5",
   "exportOptions": {
     "_class": "exportOptions",
@@ -32,11 +32,11 @@
     "constrainProportions": false,
     "height": 16,
     "width": 16,
-    "x": 16461,
-    "y": 5755
+    "x": 47666,
+    "y": 4151
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -68,9 +68,13 @@
     {
       "class": "shapeGroup",
       "id": "4FB2DCF8-283D-433A-8FB4-BBC466A73403"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0CC0F953-24B7-47D1-B907-5889DC371E86"
     }
   ],
-  "name": "icons/system/binary/edit/ic-edit-light",
+  "name": "icons/system/light/edit/ic-edit",
   "nameIsFixed": true,
   "originalObjectID": "35D6EEEE-D6C1-4199-B497-523B0EED1EF5",
   "resizesContent": false,

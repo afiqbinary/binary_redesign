@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1038,
+  "changeIdentifier": 1074,
   "do_objectID": "488E5F21-8AF5-43B9-83DB-34E006F3486A",
   "exportOptions": {
     "_class": "exportOptions",
@@ -32,11 +32,11 @@
     "constrainProportions": false,
     "height": 16,
     "width": 16,
-    "x": 16461,
-    "y": 8979
+    "x": 47666,
+    "y": 6659
   },
-  "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -58,10 +58,10 @@
       "id": "1CB6F4EC-83F0-4349-8541-47537FFEBF44"
     }
   ],
-  "name": "icons/system/binary/maximize/ic-maximize-normal-light",
+  "name": "icons/system/light/maximize/ic-maximize",
   "nameIsFixed": true,
   "originalObjectID": "7D8D9CCD-8C37-4508-A6C4-A052E379A49A",
-  "resizesContent": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

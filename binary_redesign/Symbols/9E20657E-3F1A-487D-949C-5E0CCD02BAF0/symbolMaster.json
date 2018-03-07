@@ -7,7 +7,7 @@
     "green": 0.188235294117647,
     "red": 0.1647058823529412
   },
-  "changeIdentifier": 111,
+  "changeIdentifier": 135,
   "do_objectID": "9E20657E-3F1A-487D-949C-5E0CCD02BAF0",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,13 +21,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 36,
-    "width": 36,
-    "x": 16461,
-    "y": 14011
+    "height": 16,
+    "width": 16,
+    "x": 46650,
+    "y": 580
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -42,14 +42,22 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "49D8FF5A-DB2D-4545-B9C5-626DB8FEE39E"
+      "class": "shapeGroup",
+      "id": "38A19A14-3A65-406B-BAD4-E24EC7C950CE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8199E400-BFAF-41F2-88B6-D71C2F5E8C7C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CBA34616-0F3C-4649-B222-E91B9DC9E670"
     }
   ],
-  "name": "icons/system/google/notification/ic-notification-normal-dark",
+  "name": "icons/system/dark/notification/ic-notification-normal",
   "nameIsFixed": true,
   "originalObjectID": "33A1EC7A-D68E-4224-8995-092D120C7173",
   "resizesContent": false,

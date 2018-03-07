@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1122,
+  "changeIdentifier": 1134,
   "do_objectID": "D360FE1D-C7A1-441B-9AFA-BFE599FD8331",
   "exportOptions": {
     "_class": "exportOptions",
@@ -32,11 +32,11 @@
     "constrainProportions": false,
     "height": 16,
     "width": 16,
-    "x": 16461,
-    "y": 9211
+    "x": 47666,
+    "y": 7007
   },
-  "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -58,10 +58,10 @@
       "id": "A7C85B6C-AF4D-4D07-B8A8-262010DE3973"
     }
   ],
-  "name": "icons/system/binary/minimize/ic-minimize-normal-light",
+  "name": "icons/system/light/minimize/ic-minimize",
   "nameIsFixed": true,
   "originalObjectID": "7D8D9CCD-8C37-4508-A6C4-A052E379A49A",
-  "resizesContent": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
