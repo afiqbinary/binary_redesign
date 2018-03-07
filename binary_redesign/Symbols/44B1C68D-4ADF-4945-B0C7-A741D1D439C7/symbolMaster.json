@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 2935,
+  "changeIdentifier": 3713,
   "do_objectID": "44B1C68D-4ADF-4945-B0C7-A741D1D439C7",
   "exportOptions": {
     "_class": "exportOptions",
@@ -32,11 +32,11 @@
     "constrainProportions": false,
     "height": 16,
     "width": 16,
-    "x": 15774,
-    "y": 348
+    "x": 47666,
+    "y": 696
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -51,14 +51,22 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "A7644F72-FFE7-41B2-B215-1D5BC7DE57FA"
+    },
+    {
+      "class": "group",
+      "id": "C5858F36-E254-4587-BB56-BE6219F87FAC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0717F438-B502-4EDD-8C0C-1F8B801DCEA0"
     }
   ],
-  "name": "icons/system/binary/back/ic-back-light",
+  "name": "icons/system/light/back/ic-back",
   "nameIsFixed": true,
   "originalObjectID": "44B1C68D-4ADF-4945-B0C7-A741D1D439C7",
   "resizesContent": false,

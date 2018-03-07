@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 47,
+  "changeIdentifier": 162,
   "do_objectID": "5D2293E9-8FC7-4CBB-BA24-F5EFC0186BBF",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,13 +21,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 24,
-    "x": 15774,
-    "y": 13171
+    "height": 16,
+    "width": 16,
+    "x": 47666,
+    "y": 6891
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -42,14 +42,26 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "4B75D495-EA51-4F8C-80BE-21955906945A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "508B0B47-7722-497B-85A6-1B62D6929952"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "17A5D1CB-9CAB-4075-AC92-5F299B30561A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "96E3A023-D7B0-43DC-9022-E95E7B79FE36"
     }
   ],
-  "name": "icons/system/google/header/menu/ic-menu-light",
+  "name": "icons/system/light/menu/ic-menu",
   "nameIsFixed": true,
   "originalObjectID": "78F891C2-2FDA-49C7-9A76-E84C19941C52",
   "resizesContent": false,

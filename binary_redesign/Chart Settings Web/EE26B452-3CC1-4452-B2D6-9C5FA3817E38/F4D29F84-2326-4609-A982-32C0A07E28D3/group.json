@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 398,
+    "height": 336,
     "width": 200,
     "x": 285,
-    "y": 286
+    "y": 348
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -30,10 +30,6 @@
       "id": "E7CBFB80-BAD8-4A1E-AFD5-39DA2E5AB89E"
     },
     {
-      "class": "group",
-      "id": "894344C4-B7C8-42DC-AD81-80667AB7A98F"
-    },
-    {
       "class": "symbolInstance",
       "id": "1D57B926-C1E1-4FD3-ADFF-58FC2D68F1BD"
     },
@@ -43,19 +39,15 @@
     },
     {
       "class": "symbolInstance",
-      "id": "ED954587-65B8-4B85-9224-50411C655C19"
-    },
-    {
-      "class": "symbolInstance",
       "id": "6DF61093-E8D4-4110-9022-D2B1E8616E43"
     },
     {
       "class": "symbolInstance",
-      "id": "AFB2AE93-38FB-4957-A1C4-D84F8B59CFC9"
+      "id": "B97E58BA-C404-4A5D-9B17-9DFD1BB0558F"
     },
     {
       "class": "symbolInstance",
-      "id": "1CBA63BE-D6B0-4200-A713-C9BFE4B844D4"
+      "id": "AFB2AE93-38FB-4957-A1C4-D84F8B59CFC9"
     },
     {
       "class": "symbolInstance",
@@ -74,11 +66,11 @@
       "id": "F42A2CE2-020D-4A2E-BF5B-4550AB410C91"
     },
     {
-      "class": "symbolInstance",
-      "id": "B97E58BA-C404-4A5D-9B17-9DFD1BB0558F"
+      "class": "group",
+      "id": "894344C4-B7C8-42DC-AD81-80667AB7A98F"
     }
   ],
-  "name": "chart line",
+  "name": "chart style popup",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

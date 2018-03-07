@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 69,
+  "changeIdentifier": 267,
   "do_objectID": "13450341-005D-4CAC-B183-9FA290F95226",
   "exportOptions": {
     "_class": "exportOptions",
@@ -32,11 +32,11 @@
     "constrainProportions": false,
     "height": 16,
     "width": 16,
-    "x": 15774,
-    "y": 10487
+    "x": 47666,
+    "y": 8631
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -51,14 +51,18 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "A3F3EB24-33F3-4209-B71B-F214A983C6A7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "453CDF58-470D-4716-A9FF-2978C8DE40FD"
     }
   ],
-  "name": "icons/system/binary/search/ic-search-light grey",
+  "name": "icons/system/light/search/ic-search-normal",
   "nameIsFixed": true,
   "originalObjectID": "13450341-005D-4CAC-B183-9FA290F95226",
   "resizesContent": false,

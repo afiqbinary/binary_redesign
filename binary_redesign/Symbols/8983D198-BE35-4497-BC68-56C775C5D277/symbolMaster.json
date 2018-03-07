@@ -7,7 +7,7 @@
     "green": 0.188235294117647,
     "red": 0.1647058823529412
   },
-  "changeIdentifier": 1764,
+  "changeIdentifier": 1791,
   "do_objectID": "8983D198-BE35-4497-BC68-56C775C5D277",
   "exportOptions": {
     "_class": "exportOptions",
@@ -32,11 +32,11 @@
     "constrainProportions": false,
     "height": 16,
     "width": 16,
-    "x": 15774,
-    "y": 4711
+    "x": 46650,
+    "y": 348
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -54,35 +54,15 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "E8447B77-4CCA-4693-903B-5A73E1800C69"
+      "class": "shapeGroup",
+      "id": "A3E85671-EA56-4314-8B58-DF57C90A0BF2"
     },
     {
       "class": "shapeGroup",
-      "id": "7A436138-E513-404A-A60B-E84ED3E137F1"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "F4FE1F5C-15DC-44FF-87C1-CF997D1FBE0D"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "681D9B37-ADBF-49BA-9CBE-264B5DCBACF3"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "12D09D35-CF4A-483E-B01F-A8EB0A770E88"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "AB7D4E95-91DF-447C-BB34-DB4FB70426F1"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "ED2C6AEA-B654-4B9F-90C8-618FB90B977B"
+      "id": "FDEF727C-4738-43F0-A97E-06F1A938608A"
     }
   ],
-  "name": "icons/system/binary/delete/ic-delete-light white",
+  "name": "icons/system/dark/delete/ic-delete",
   "nameIsFixed": true,
   "originalObjectID": "FD94FC08-0255-4723-8C24-0A15422E83CB",
   "resizesContent": false,

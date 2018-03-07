@@ -7,7 +7,7 @@
     "green": 0.9764705882352941,
     "red": 0.9764705882352941
   },
-  "changeIdentifier": 3277,
+  "changeIdentifier": 3402,
   "do_objectID": "BCB7C5DE-14E7-4AE6-A207-2C474644C7B3",
   "exportOptions": {
     "_class": "exportOptions",
@@ -32,11 +32,11 @@
     "constrainProportions": false,
     "height": 16,
     "width": 16,
-    "x": 15774,
-    "y": 116
+    "x": 47666,
+    "y": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -55,17 +55,13 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "4413DA14-10C5-41E0-96EC-058089E85983"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "1B7D50C8-36FC-40CB-9163-3BA353D97214"
+      "id": "E02938D7-3DDF-4ABA-BF7C-62FFE94093EB"
     }
   ],
-  "name": "icons/system/binary/add/ic-add-light",
+  "name": "icons/system/light/add/ic-add",
   "nameIsFixed": true,
   "originalObjectID": "BCB7C5DE-14E7-4AE6-A207-2C474644C7B3",
-  "resizesContent": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -14,9 +14,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 24,
-    "width": 24,
-    "x": 0.5,
+    "height": 16,
+    "width": 16,
+    "x": 0,
     "y": 0
   },
   "hasClickThrough": false,
@@ -40,6 +40,14 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 6.666666666666666,
+      "type": 0
+    },
     "borders": [
       {
         "_class": "border",
@@ -53,7 +61,7 @@
         "fillType": 0,
         "isEnabled": false,
         "position": 1,
-        "thickness": 1
+        "thickness": 0.6666666666666666
       }
     ],
     "contextSettings": {

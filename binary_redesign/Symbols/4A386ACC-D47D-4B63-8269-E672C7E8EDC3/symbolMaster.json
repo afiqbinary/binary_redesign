@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 181,
+  "changeIdentifier": 197,
   "do_objectID": "4A386ACC-D47D-4B63-8269-E672C7E8EDC3",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,11 +23,11 @@
     "constrainProportions": false,
     "height": 16,
     "width": 16,
-    "x": 15774,
-    "y": 13935
+    "x": 47666,
+    "y": 7355
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -42,14 +42,18 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
       "id": "84128CD3-145F-4826-BD62-AB446988EEBE"
+    },
+    {
+      "class": "group",
+      "id": "313754D9-B929-4824-9FAE-42EA1FCCE95D"
     }
   ],
-  "name": "icons/system/google/trade/barrier",
+  "name": "icons/system/light/parameter/barrier/ic-barrier",
   "nameIsFixed": true,
   "originalObjectID": "4A386ACC-D47D-4B63-8269-E672C7E8EDC3",
   "resizesContent": false,

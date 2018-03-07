@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 263,
+  "changeIdentifier": 281,
   "do_objectID": "2B1C7083-C8B9-41E2-B8A6-E77588D40A14",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,13 +21,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 24,
-    "x": 15774,
-    "y": 7119
+    "height": 16,
+    "width": 16,
+    "x": 47666,
+    "y": 5499
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -42,7 +42,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
@@ -53,7 +53,7 @@
       "id": "CB50F2AA-E080-4968-9CE2-1C8481A93E9B"
     }
   ],
-  "name": "icons/system/binary/header/portfolio/ic-portfolio-normal-light",
+  "name": "icons/system/light/header/portfolio/ic-portfolio-normal",
   "nameIsFixed": true,
   "originalObjectID": "50044113-682D-43E3-8B41-FD7413984B04",
   "resizesContent": false,

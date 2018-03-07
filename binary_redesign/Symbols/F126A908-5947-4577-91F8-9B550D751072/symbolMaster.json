@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 3073,
+  "changeIdentifier": 3089,
   "do_objectID": "F126A908-5947-4577-91F8-9B550D751072",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,11 +23,11 @@
     "constrainProportions": false,
     "height": 16,
     "width": 16,
-    "x": 15326,
-    "y": 232
+    "x": 47666,
+    "y": 8747
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -42,7 +42,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
@@ -57,8 +57,8 @@
       "id": "F3F48D30-9FBD-4CA3-8E71-DAC22283CB0C"
     }
   ],
-  "name": "icons/flat/settings",
-  "nameIsFixed": false,
+  "name": "icons/system/light/settings/ic-settings",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
