@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
+    "height": 32,
     "width": 368,
     "x": 0,
-    "y": 422
+    "y": 342
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -24,7 +24,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "row-5 copy 5",
+  "name": "row-10",
   "nameIsFixed": true,
   "originalObjectID": "C9105635-9998-446C-AA2F-440550C55634",
   "overrideValues": [
@@ -36,7 +36,7 @@
     {
       "_class": "overrideValue",
       "overrideName": "DAFB1CA2-7767-4024-B9F2-C5453FDD3A76_stringValue",
-      "value": "Volatility Indicators"
+      "value": "GBP/JPY"
     },
     {
       "_class": "overrideValue",
@@ -57,6 +57,18 @@
       "_class": "overrideValue",
       "overrideName": "855A783E-3312-48F7-BC69-6862D6BA7E38_symbolID",
       "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F448DDFA-7B98-457C-BEC6-78C95CFFA017",
+      "overrideName": "D3508DDB-34C9-4CB4-8D0B-C2C46D1D4C53/D584B2CA-DA7D-470D-AF62-DEE1F6B54604_symbolID",
+      "value": "BA56F3A0-5262-4896-B459-2E01EB887E12"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8662BD19-3948-4849-B316-5F49DA164E54",
+      "overrideName": "D3508DDB-34C9-4CB4-8D0B-C2C46D1D4C53/E86EEA8E-D363-48E0-A1BB-448A44D8E62F_symbolID",
+      "value": "7A1FAFE8-ABA4-468D-8C17-50B880467EC7"
     }
   ],
   "overrides": {
@@ -73,7 +85,15 @@
     "855A783E-3312-48F7-BC69-6862D6BA7E38": {
       "symbolID": ""
     },
-    "DAFB1CA2-7767-4024-B9F2-C5453FDD3A76": "Volatility Indicators"
+    "D3508DDB-34C9-4CB4-8D0B-C2C46D1D4C53": {
+      "D584B2CA-DA7D-470D-AF62-DEE1F6B54604": {
+        "symbolID": "BA56F3A0-5262-4896-B459-2E01EB887E12"
+      },
+      "E86EEA8E-D363-48E0-A1BB-448A44D8E62F": {
+        "symbolID": "7A1FAFE8-ABA4-468D-8C17-50B880467EC7"
+      }
+    },
+    "DAFB1CA2-7767-4024-B9F2-C5453FDD3A76": "GBP/JPY"
   },
   "resizingConstraint": 63,
   "resizingType": 0,
