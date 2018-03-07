@@ -15,10 +15,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "31B81415-51FB-4B92-8550-E9DAECA0DC43",
-    "height": 40,
+    "height": 32,
     "width": 368,
     "x": 0,
-    "y": 461
+    "y": 466
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -26,7 +26,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "row-12",
+  "name": "row-15",
   "nameIsFixed": true,
   "originalObjectID": "9CA8F156-613C-4608-A8DB-D171F65C993B",
   "overrideValues": [
@@ -63,14 +63,14 @@
     {
       "_class": "overrideValue",
       "overrideName": "0601EFFE-568F-46E1-8D26-0F43FC992D4F_stringValue",
-      "value": "Linearly Adaptive Mocing Average"
+      "value": "Simple Moving Average"
     }
   ],
   "overrides": {
     "0102C1AB-5ABB-43CB-9FD1-85CB7F372FE3": {
       "symbolID": ""
     },
-    "0601EFFE-568F-46E1-8D26-0F43FC992D4F": "Linearly Adaptive Mocing Average",
+    "0601EFFE-568F-46E1-8D26-0F43FC992D4F": "Simple Moving Average",
     "30BDE5EF-C3F6-4DB6-BBC9-E41FD60F942F": "Average Directional Movement Index Rating",
     "5830E625-938B-4CDC-BF32-7389919130DF": {
       "symbolID": ""

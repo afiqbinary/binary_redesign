@@ -1,0 +1,82 @@
+{
+  "_class": "group",
+  "do_objectID": "E5026082-B8A7-4A89-B200-B9EEC06F82A6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8B86888C-A679-4056-85D7-350D89014828",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "28D23506-EC3C-4BB2-ADE1-FF0E4F42DC48",
+    "height": 94,
+    "width": 367,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "49247007-58BE-43FF-AC01-A07BF7C1A333"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "36BDAF83-5D71-4E3E-A56F-C6D8EED98D3A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AE2A33D0-443A-4E72-A252-A3C6F526076C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "649C2E3F-D395-4E00-832C-E1557FAB0CB4"
+    }
+  ],
+  "name": "Active",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8A672A38-4170-47B8-B411-CC4B3D94A7E6",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 1,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "BE062009-4FBD-4A53-ACA9-7CA1CC0E0CCA",
+      "transition": 0
+    }
+  }
+}
