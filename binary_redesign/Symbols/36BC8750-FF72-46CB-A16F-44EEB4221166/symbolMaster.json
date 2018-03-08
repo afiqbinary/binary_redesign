@@ -7,11 +7,20 @@
     "green": 0.9764705882352941,
     "red": 0.9764705882352941
   },
-  "changeIdentifier": 2698,
+  "changeIdentifier": 2700,
   "do_objectID": "36BC8750-FF72-46CB-A16F-44EEB4221166",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -27,7 +36,7 @@
     "y": 4499
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
