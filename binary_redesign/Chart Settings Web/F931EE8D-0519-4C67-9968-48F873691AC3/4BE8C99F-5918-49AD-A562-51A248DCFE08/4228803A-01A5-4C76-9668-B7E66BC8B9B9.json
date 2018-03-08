@@ -32,10 +32,28 @@
       "_class": "overrideValue",
       "overrideName": "499844FC-5164-40C8-8C3D-E4FA4C1D0B16_stringValue",
       "value": "Download chart"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1D0B44F3-1904-43DB-829F-5637DEDE8B8A",
+      "overrideName": "56E892EB-27EC-4C03-9EF7-C737C7E9C1FE_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3EC86635-B3B9-4B69-829D-687C8338BE1D",
+      "overrideName": "954CD251-E303-4C77-B8F3-A2D512C8A22B_symbolID",
+      "value": ""
     }
   ],
   "overrides": {
-    "499844FC-5164-40C8-8C3D-E4FA4C1D0B16": "Download chart"
+    "499844FC-5164-40C8-8C3D-E4FA4C1D0B16": "Download chart",
+    "56E892EB-27EC-4C03-9EF7-C737C7E9C1FE": {
+      "symbolID": ""
+    },
+    "954CD251-E303-4C77-B8F3-A2D512C8A22B": {
+      "symbolID": ""
+    }
   },
   "resizingConstraint": 63,
   "resizingType": 0,

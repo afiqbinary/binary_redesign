@@ -32,10 +32,28 @@
       "_class": "overrideValue",
       "overrideName": "499844FC-5164-40C8-8C3D-E4FA4C1D0B16_stringValue",
       "value": "Delete template"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7B05601E-E4C4-4D8A-BBC7-629EA6CC0D6F",
+      "overrideName": "56E892EB-27EC-4C03-9EF7-C737C7E9C1FE_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1A6B36CC-DF5C-424D-97FC-FA3057D0749B",
+      "overrideName": "954CD251-E303-4C77-B8F3-A2D512C8A22B_symbolID",
+      "value": ""
     }
   ],
   "overrides": {
-    "499844FC-5164-40C8-8C3D-E4FA4C1D0B16": "Delete template"
+    "499844FC-5164-40C8-8C3D-E4FA4C1D0B16": "Delete template",
+    "56E892EB-27EC-4C03-9EF7-C737C7E9C1FE": {
+      "symbolID": ""
+    },
+    "954CD251-E303-4C77-B8F3-A2D512C8A22B": {
+      "symbolID": ""
+    }
   },
   "resizingConstraint": 63,
   "resizingType": 0,
