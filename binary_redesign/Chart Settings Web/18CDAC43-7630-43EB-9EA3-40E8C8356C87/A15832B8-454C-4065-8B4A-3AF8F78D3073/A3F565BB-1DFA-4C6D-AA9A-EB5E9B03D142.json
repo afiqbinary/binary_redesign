@@ -1,0 +1,94 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "A3F565BB-1DFA-4C6D-AA9A-EB5E9B03D142",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4FCEAB04-C6CF-4BCF-820B-7096A99F3474",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "29E2FB99-3F52-4AFA-8919-72A0FDD5279D",
+    "height": 32,
+    "width": 344,
+    "x": 0,
+    "y": 104
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "border",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C91D0D97-0A90-499F-9E6B-C1F5C53765ED",
+      "overrideName": "EB0CCCF9-9363-4317-8DA4-7AF2155C4DA6_stringValue",
+      "value": "Border Style"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F202DE21-E9FF-4243-871C-EF31A3A32A1D",
+      "overrideName": "420E38FA-3149-45CC-BD82-B706E6338959/748ED0B4-FA23-4DA7-9B64-196D5698613D_stringValue",
+      "value": "Open"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7B180A21-161F-43A9-B74B-17FF387AE8CA",
+      "overrideName": "420E38FA-3149-45CC-BD82-B706E6338959_symbolID",
+      "value": "946D1E1C-B6BB-4844-B1AC-7E6E58064FAB"
+    }
+  ],
+  "overrides": {
+    "420E38FA-3149-45CC-BD82-B706E6338959": {
+      "748ED0B4-FA23-4DA7-9B64-196D5698613D": "Open",
+      "symbolID": "946D1E1C-B6BB-4844-B1AC-7E6E58064FAB"
+    },
+    "EB0CCCF9-9363-4317-8DA4-7AF2155C4DA6": "Border Style"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "43CBA86E-C119-4F80-808A-2718147AEFDE",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "764C534E-84B9-4743-A573-4CA7DDFCF22C",
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 1,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "12734090-4EC0-4D33-8295-FE9CB665D6F0",
+      "transition": 0
+    }
+  },
+  "verticalSpacing": 0
+}
