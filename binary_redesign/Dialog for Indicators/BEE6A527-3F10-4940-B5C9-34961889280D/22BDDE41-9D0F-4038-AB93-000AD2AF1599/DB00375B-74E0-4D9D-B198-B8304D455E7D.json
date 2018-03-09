@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "DB00375B-74E0-4D9D-B198-B8304D455E7D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 344,
+    "x": 0,
+    "y": 304
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "overbought",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A23F0C69-87A4-4B51-91E6-ABBF165A44BB",
+      "overrideName": "25D1E437-A3AD-441D-BB7F-8F0D2E323FE7_stringValue",
+      "value": "Overbought"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "11B088E1-A6A2-4FBB-81C4-3AE4DF8B7131",
+      "overrideName": "70E53245-BD1D-440D-8573-6B087EB7ABD4_symbolID",
+      "value": "BB74EB4A-96A5-43B3-AC61-D94CD447B2F9"
+    }
+  ],
+  "overrides": {
+    "25D1E437-A3AD-441D-BB7F-8F0D2E323FE7": "Overbought",
+    "70E53245-BD1D-440D-8573-6B087EB7ABD4": {
+      "symbolID": "BB74EB4A-96A5-43B3-AC61-D94CD447B2F9"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "40B4281C-590B-4C06-A88F-E6FFCF661394",
+  "verticalSpacing": 0
+}

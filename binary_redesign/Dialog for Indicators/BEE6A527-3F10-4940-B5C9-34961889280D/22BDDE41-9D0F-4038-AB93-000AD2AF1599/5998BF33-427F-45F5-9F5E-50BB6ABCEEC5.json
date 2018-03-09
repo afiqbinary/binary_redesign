@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "5998BF33-427F-45F5-9F5E-50BB6ABCEEC5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 344,
+    "x": 0,
+    "y": 224
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "slow",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C9EDC3A3-433F-46C1-BC4E-A6226D11256E_stringValue",
+      "value": "Slow"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BCEF721A-BD7B-435C-A4C6-73D0E0AFB47B",
+      "overrideName": "48ECD812-FF01-4C11-8F01-F1CD411AEB2F_symbolID",
+      "value": "ABA191C4-5A6D-4C84-B301-386C3C7C4911"
+    }
+  ],
+  "overrides": {
+    "48ECD812-FF01-4C11-8F01-F1CD411AEB2F": {
+      "symbolID": "ABA191C4-5A6D-4C84-B301-386C3C7C4911"
+    },
+    "C9EDC3A3-433F-46C1-BC4E-A6226D11256E": "Slow"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "0C00E06B-423D-4CD2-A78C-ADCDC12B83B6",
+  "verticalSpacing": 0
+}
