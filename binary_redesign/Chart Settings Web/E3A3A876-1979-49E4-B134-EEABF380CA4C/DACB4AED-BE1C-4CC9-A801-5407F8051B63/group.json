@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 528,
+    "height": 320,
     "width": 200,
-    "x": 405,
-    "y": 156
+    "x": 377,
+    "y": 364
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -40,6 +40,14 @@
     {
       "class": "group",
       "id": "1AAE3B0E-00E1-4E8F-B044-E8E48DA2B2FB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3C009C03-204A-4914-AE04-3E4EC692A42D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "26D6D0D1-E7F9-4DD3-8D18-FAC5A8AB25A7"
     }
   ],
   "name": "Drawing Tools",

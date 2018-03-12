@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 3458,
+  "changeIdentifier": 3664,
   "do_objectID": "F012A7AF-6C4E-40C9-BC57-3A5100AF9E31",
   "exportOptions": {
     "_class": "exportOptions",
@@ -32,8 +32,8 @@
     "constrainProportions": false,
     "height": 16,
     "width": 16,
-    "x": 47666,
-    "y": 6052
+    "x": 52402,
+    "y": 6268
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -51,19 +51,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "E028C87D-458B-4237-889B-4B4E3598DD00"
+      "class": "group",
+      "id": "00EB31F8-FF95-4988-A9C7-1C5E68C6DB11"
     },
     {
-      "class": "shapeGroup",
-      "id": "8EFCE46D-AEEB-42A4-BBA9-E84267AF763F"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "6B99B235-F149-4910-97F7-A445D15FC8CE"
+      "class": "group",
+      "id": "AB145BBB-E62A-438E-BF4F-13949A53079A"
     }
   ],
   "name": "icons/system/light/download/ic-download",

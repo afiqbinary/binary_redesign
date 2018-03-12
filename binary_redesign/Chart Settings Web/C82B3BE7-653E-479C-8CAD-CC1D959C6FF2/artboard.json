@@ -35,7 +35,7 @@
     "y": -1743
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -49,7 +49,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
@@ -93,6 +93,10 @@
     },
     {
       "class": "shapeGroup",
+      "id": "C19487F3-D463-4268-B39E-EB880CB00364"
+    },
+    {
+      "class": "shapeGroup",
       "id": "CE179C6F-AC9F-4E4B-9863-F8668B914027"
     },
     {
@@ -119,7 +123,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1416
   },
-  "name": "1.hover chart template",
+  "name": "7.hover chart template",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
