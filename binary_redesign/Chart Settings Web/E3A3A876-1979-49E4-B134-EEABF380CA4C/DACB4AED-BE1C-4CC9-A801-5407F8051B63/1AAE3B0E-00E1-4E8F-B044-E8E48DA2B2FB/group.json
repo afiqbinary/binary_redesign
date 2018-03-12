@@ -16,13 +16,13 @@
     "height": 40,
     "width": 168,
     "x": 16,
-    "y": 10
+    "y": 8
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": true,
+  "isVisible": false,
   "layerListExpandedType": 0,
   "layers": [
     {
@@ -34,8 +34,8 @@
       "id": "57CC6B25-7FEA-4F03-ABE5-E3FA62E02EC6"
     }
   ],
-  "name": "Group 4",
-  "nameIsFixed": false,
+  "name": "icons",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
