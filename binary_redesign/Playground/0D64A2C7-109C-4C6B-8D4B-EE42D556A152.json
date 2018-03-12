@@ -1,6 +1,13 @@
 {
-  "_class": "page",
-  "do_objectID": "080E2B04-6637-4120-808E-21E144450963",
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "0D64A2C7-109C-4C6B-8D4B-EE42D556A152",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,54 +20,45 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "height": 18278,
+    "width": 24859,
+    "x": -522,
+    "y": 3767
   },
-  "hasClickThrough": true,
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -470,
+    "base": 0,
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
-    {
-      "class": "artboard",
-      "id": "0D64A2C7-109C-4C6B-8D4B-EE42D556A152"
-    }
   ],
-  "name": "Playground",
-  "nameIsFixed": true,
+  "name": "Artboard",
+  "nameIsFixed": false,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "userInfo": {
-    "com.invision.prototype": {
-      "lastUsedGestureID": 0
-    },
-    "com.nivritti.diya": {
-      "screens": [
-      ]
-    }
-  },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -472,
+    "base": 0,
     "guides": [
     ]
   }
