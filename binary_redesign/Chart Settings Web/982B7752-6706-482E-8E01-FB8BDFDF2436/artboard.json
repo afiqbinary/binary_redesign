@@ -32,7 +32,7 @@
     "height": 803,
     "width": 1440,
     "x": -3255,
-    "y": 13274
+    "y": 14419
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -49,7 +49,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -66,6 +66,10 @@
     {
       "class": "shapeGroup",
       "id": "AC822751-FE9A-4EAF-BE3C-5AF70CB44C3B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "92313A60-2FFC-49AD-841B-5FCDC55CB44F"
     },
     {
       "class": "symbolInstance",
@@ -87,7 +91,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1416
   },
-  "name": "52.chart template main",
+  "name": "61.chart template main",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

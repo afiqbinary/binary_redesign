@@ -35,7 +35,7 @@
     "y": -4784
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -49,7 +49,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
@@ -93,6 +93,10 @@
     },
     {
       "class": "shapeGroup",
+      "id": "68E04E91-0195-4D50-BA5B-623F91BC97A0"
+    },
+    {
+      "class": "shapeGroup",
       "id": "AF307BC6-4C40-410A-9225-861D4F1AE342"
     },
     {
@@ -119,7 +123,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1416
   },
-  "name": "1.hover indicator",
+  "name": "4.hover indicator",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

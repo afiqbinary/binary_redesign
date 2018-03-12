@@ -13,33 +13,33 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 184,
+    "height": 200,
     "width": 280,
-    "x": 405,
-    "y": 500
+    "x": 377,
+    "y": 484
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "033D26B7-71F4-4B1C-9E35-F9C80A04B2FF"
     },
     {
-      "class": "symbolInstance",
-      "id": "3AE56248-F6D2-4C12-8FA1-624D745848B1"
+      "class": "text",
+      "id": "8AEA29C3-6B13-4F94-87BD-F2F69008463D"
     },
     {
-      "class": "symbolInstance",
-      "id": "C93482C4-CB72-4137-A61F-436C4608DE24"
+      "class": "shapeGroup",
+      "id": "EBE6F4F2-B2C5-42CB-81D1-66F9A0AEF7A4"
     },
     {
-      "class": "symbolInstance",
-      "id": "BB39C47C-9646-405D-BBB5-0167BEADFCD1"
+      "class": "group",
+      "id": "B30B127F-BB95-43C4-A508-A4BC44E66AEB"
     }
   ],
   "name": "list",
