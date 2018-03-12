@@ -1,0 +1,83 @@
+{
+  "_class": "group",
+  "do_objectID": "F2465801-B8E8-4B19-A710-E355BE93DEF9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 64,
+    "width": 255,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FA5E2E85-3469-499C-B863-29D4E14CFCA5"
+    },
+    {
+      "class": "text",
+      "id": "0F698183-24A4-4BAE-854E-98E5717ACCA6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B622EE56-E1CA-46A1-B67F-02743408CF0A"
+    },
+    {
+      "class": "text",
+      "id": "F41C9CA1-DD1D-4145-B259-13E8171353B0"
+    },
+    {
+      "class": "group",
+      "id": "EFD360E5-6456-48BA-9B49-31DF6482A150"
+    }
+  ],
+  "name": "Choose market",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 1,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "EF8ED29E-ABC3-4CE1-AAC6-359036919C63",
+      "transition": 0
+    }
+  }
+}
