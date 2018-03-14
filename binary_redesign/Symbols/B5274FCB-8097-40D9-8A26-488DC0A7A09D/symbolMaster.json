@@ -7,7 +7,7 @@
     "green": 0.9764705882352941,
     "red": 0.9764705882352941
   },
-  "changeIdentifier": 2255,
+  "changeIdentifier": 2279,
   "do_objectID": "B5274FCB-8097-40D9-8A26-488DC0A7A09D",
   "exportOptions": {
     "_class": "exportOptions",
@@ -32,8 +32,8 @@
     "constrainProportions": false,
     "height": 32,
     "width": 32,
-    "x": 49338,
-    "y": 396
+    "x": 73770,
+    "y": 924
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -56,9 +56,13 @@
     {
       "class": "group",
       "id": "E7EA9227-DC31-4714-85ED-E711B5E34A08"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "386CA87A-DF4F-4D09-AA4E-DF2718B915E3"
     }
   ],
-  "name": "icons/logo/barclays",
+  "name": "icons/underlying assets/otc stocks/ic-barclays",
   "nameIsFixed": true,
   "originalObjectID": "06A03460-F0EE-4238-9042-6B5CAE66A875",
   "resizesContent": true,
