@@ -1,0 +1,78 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "86361B86-F5C3-4185-9AA0-B6EE857B9548",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "05F59BCE-F7B8-42C6-9CE1-FF66C9B1E77C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CC69B0AE-8579-42F3-8CF5-C794D4B1B1DC",
+    "height": 40,
+    "width": 240,
+    "x": 828,
+    "y": 80
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Alert/Default/Success",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "067CF6CF-361A-49C0-9FE9-E9BF2EAF277A",
+      "overrideName": "9EE164F2-F5C9-4B25-A367-B4C0D4F9644C_stringValue",
+      "value": "Share link is copied."
+    }
+  ],
+  "overrides": {
+    "9EE164F2-F5C9-4B25-A367-B4C0D4F9644C": "Share link is copied."
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "300F7303-5D3C-4A12-A4ED-AB24B53C63A4",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "CF457FC9-D5AD-4C08-BBEA-48052BA784B5",
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "4FFDFD06-5FCA-4A17-852F-FCA64233CF54",
+      "transition": 0
+    }
+  },
+  "verticalSpacing": 0
+}

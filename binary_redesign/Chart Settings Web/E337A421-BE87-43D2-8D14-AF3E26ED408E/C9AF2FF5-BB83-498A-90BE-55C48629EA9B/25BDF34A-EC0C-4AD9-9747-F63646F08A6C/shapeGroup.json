@@ -16,7 +16,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "FC89CEF8-1CDC-4D6D-9DBB-DC563B18A51E",
-    "height": 150,
+    "height": 200,
     "width": 280,
     "x": 0,
     "y": 0
@@ -34,8 +34,8 @@
       "id": "18FA7FC9-43C9-439D-B74A-48636FB52BE7"
     }
   ],
-  "name": "Rectangle 22",
-  "nameIsFixed": false,
+  "name": "bg",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
