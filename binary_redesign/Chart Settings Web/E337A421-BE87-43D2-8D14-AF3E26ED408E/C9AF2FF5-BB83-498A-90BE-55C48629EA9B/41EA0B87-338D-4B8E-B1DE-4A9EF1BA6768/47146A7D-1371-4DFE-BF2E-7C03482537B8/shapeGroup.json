@@ -1,10 +1,10 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "3B6D9630-9E6C-4CB0-868A-17F41C551B3D",
+  "do_objectID": "47146A7D-1371-4DFE-BF2E-7C03482537B8",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "530CF31D-4196-4D09-B112-ABF415C3F5D9",
+    "do_objectID": "DC347E3F-2A77-4205-ADCD-1BC430A7C524",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,10 +14,10 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "do_objectID": "9A71FFC3-D20B-4C9E-B711-6E6042882E4F",
-    "height": 56,
-    "width": 56,
+    "constrainProportions": false,
+    "do_objectID": "6CCC18B4-9B25-4C06-BA91-DBDAF51A300F",
+    "height": 32,
+    "width": 248,
     "x": 0,
     "y": 0
   },
@@ -27,15 +27,16 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
-      "id": "B1827332-2969-4F99-91DA-DF0E0051CEEE"
+      "id": "E29A3079-FE93-4913-BB9A-1076CAC17596"
     }
   ],
-  "name": "Rectangle",
-  "nameIsFixed": false,
+  "name": "bg-txtfield",
+  "nameIsFixed": true,
+  "originalObjectID": "8E99BD89-C754-445E-B728-623238247FF5",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -58,7 +59,7 @@
         "thickness": 1
       }
     ],
-    "do_objectID": "FE9DFABE-F8BA-44A3-8ED8-D3190F4CE953",
+    "do_objectID": "D1E3A73C-123A-473A-97D5-52E1D6DB057A",
     "endDecorationType": 0,
     "fills": [
       {
@@ -74,34 +75,11 @@
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
-        "patternFillType": 0,
+        "patternFillType": 1,
         "patternTileScale": 1
       }
     ],
     "miterLimit": 10,
-    "shadows": [
-      {
-        "_class": "shadow",
-        "blurRadius": 0,
-        "color": {
-          "_class": "color",
-          "alpha": 0.16,
-          "blue": 0.3215686274509804,
-          "green": 0.188235294117647,
-          "red": 0.1647058823529412
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "isEnabled": false,
-        "offsetX": 0,
-        "offsetY": 0,
-        "spread": 2
-      }
-    ],
-    "sharedObjectID": "C9593E74-A634-4EB8-97E7-EF3857800B4A",
     "startDecorationType": 0
   },
   "windingRule": 1
