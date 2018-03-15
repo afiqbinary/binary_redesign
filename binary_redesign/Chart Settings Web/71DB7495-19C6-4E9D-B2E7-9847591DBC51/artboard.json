@@ -31,11 +31,11 @@
     "constrainProportions": false,
     "height": 803,
     "width": 1440,
-    "x": -2435,
-    "y": 23246
+    "x": -3197,
+    "y": 23072
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -49,7 +49,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -64,12 +64,12 @@
       "id": "94345134-BD6A-4C8D-AC80-A0C74D43992D"
     },
     {
-      "class": "shapeGroup",
-      "id": "971A0FEE-BCBA-4C91-8A97-41AE948061D1"
+      "class": "group",
+      "id": "E20DADD3-1A7B-487D-84B5-7CBE7D945FD5"
     },
     {
-      "class": "group",
-      "id": "FF369C1C-315C-4C5D-B2BB-76C92ECBB542"
+      "class": "shapeGroup",
+      "id": "971A0FEE-BCBA-4C91-8A97-41AE948061D1"
     },
     {
       "class": "symbolInstance",
@@ -91,7 +91,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1416
   },
-  "name": "70.time interval",
+  "name": "74.time interval",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
