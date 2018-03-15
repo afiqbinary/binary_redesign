@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1627,
+  "changeIdentifier": 4872,
   "do_objectID": "E4C4093C-055F-4896-A47E-8F7EBA8E4D35",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,7 +23,7 @@
     "constrainProportions": false,
     "height": 32,
     "width": 32,
-    "x": 74802,
+    "x": 75834,
     "y": 0
   },
   "hasBackgroundColor": false,
@@ -45,8 +45,28 @@
   "layerListExpandedType": 1,
   "layers": [
     {
+      "class": "shapeGroup",
+      "id": "49A12CD6-5861-42BB-9A32-08A48AF3AC83"
+    },
+    {
       "class": "group",
-      "id": "84A5FF91-07AA-4B9A-B278-1B41B0EC857A"
+      "id": "8823572A-D105-42E1-97B2-EC856FE544D6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "010BF4FE-E765-4D9E-8DD6-83421248B290"
+    },
+    {
+      "class": "group",
+      "id": "90BD9074-A460-4975-B94A-B274057DF38B"
+    },
+    {
+      "class": "group",
+      "id": "054EDFE4-4E20-4C32-AF15-33B7EF317E6A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3F82C14D-2B37-4F60-937C-4EF85A504B26"
     }
   ],
   "name": "icons/underlying assets/smart fx/aud index/ic-audindex",
