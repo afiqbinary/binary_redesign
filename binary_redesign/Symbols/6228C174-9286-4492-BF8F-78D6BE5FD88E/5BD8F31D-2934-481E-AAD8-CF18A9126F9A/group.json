@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "5BD8F31D-2934-481E-AAD8-CF18A9126F9A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 6,
+    "width": 32,
+    "x": 0,
+    "y": 13
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4E784B9D-2294-4D9C-BF3E-7681093D2F37"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CD7665D7-CF6E-404B-A679-A5E3944E0C08"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9A95B552-EFE9-49E7-9453-DC8A07AB57B6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6B9A711F-D2BC-49E7-839A-762A61219608"
+    }
+  ],
+  "name": "hsbc-logo",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0.8130081300813008,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

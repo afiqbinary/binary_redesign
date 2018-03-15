@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "9D58F3FF-9737-4391-B85D-5EFCD67552F4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CFECEC8D-C194-49CB-88C4-7D6F351412A5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "265A2001-C0F6-4B0D-8748-D1B6BAB24EA5",
+    "height": 12,
+    "width": 30,
+    "x": 1,
+    "y": 10
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "55FA2E58-E189-4B93-9699-889947A31287"
+    }
+  ],
+  "name": "IBM_logo",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "42552206-F03C-4361-AF34-20435FCD50A6",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0.3,
+      "type": 0
+    },
+    "do_objectID": "55B523C7-B959-4FFF-9E3A-F51466F616FF",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

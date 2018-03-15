@@ -1,0 +1,87 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C438E8DF-2C80-46B2-A739-644A91ADD803",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EC8607C5-C570-4FAD-8760-FCBE19828BE7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8A18824B-8DF1-498A-B3C2-B9ED264D936C",
+    "height": 40,
+    "width": 368,
+    "x": -1,
+    "y": 155
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "row-4",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "5830E625-938B-4CDC-BF32-7389919130DF_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "855A783E-3312-48F7-BC69-6862D6BA7E38_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D3508DDB-34C9-4CB4-8D0B-C2C46D1D4C53_symbolID",
+      "value": "30C0A1F9-8377-4958-A7A3-088A4FC3EBE1"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "DAFB1CA2-7767-4024-B9F2-C5453FDD3A76_stringValue",
+      "value": "German index"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D3508DDB-34C9-4CB4-8D0B-C2C46D1D4C53/3381F59A-994B-44FD-938C-ADBCF4D05465_symbolID",
+      "value": "308902DD-2C35-40FE-974C-6C635B31F08F"
+    }
+  ],
+  "overrides": {
+    "5830E625-938B-4CDC-BF32-7389919130DF": {
+      "symbolID": ""
+    },
+    "855A783E-3312-48F7-BC69-6862D6BA7E38": {
+      "symbolID": ""
+    },
+    "D3508DDB-34C9-4CB4-8D0B-C2C46D1D4C53": {
+      "3381F59A-994B-44FD-938C-ADBCF4D05465": {
+        "symbolID": "308902DD-2C35-40FE-974C-6C635B31F08F"
+      },
+      "symbolID": "30C0A1F9-8377-4958-A7A3-088A4FC3EBE1"
+    },
+    "DAFB1CA2-7767-4024-B9F2-C5453FDD3A76": "German index"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9D0DE707-2B03-4404-A42D-9BAFBE77FA2D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "7B790581-CCF2-4096-A3B7-1EF0B9E7AE92",
+  "verticalSpacing": 0
+}

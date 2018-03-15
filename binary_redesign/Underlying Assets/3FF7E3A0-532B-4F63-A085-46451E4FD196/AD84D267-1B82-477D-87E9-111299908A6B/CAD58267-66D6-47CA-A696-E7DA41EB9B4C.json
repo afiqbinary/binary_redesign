@@ -1,0 +1,87 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "CAD58267-66D6-47CA-A696-E7DA41EB9B4C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8F9099F8-789D-430A-83FC-48450C7307DD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BB315298-032A-4425-BBBB-DBADD05B5BBE",
+    "height": 40,
+    "width": 368,
+    "x": -1,
+    "y": 194
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "row-5",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "5830E625-938B-4CDC-BF32-7389919130DF_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "855A783E-3312-48F7-BC69-6862D6BA7E38_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D3508DDB-34C9-4CB4-8D0B-C2C46D1D4C53_symbolID",
+      "value": "30C0A1F9-8377-4958-A7A3-088A4FC3EBE1"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "DAFB1CA2-7767-4024-B9F2-C5453FDD3A76_stringValue",
+      "value": "Irish index"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D3508DDB-34C9-4CB4-8D0B-C2C46D1D4C53/3381F59A-994B-44FD-938C-ADBCF4D05465_symbolID",
+      "value": "06ECAD4A-0DEE-45E7-B524-B12F4C129179"
+    }
+  ],
+  "overrides": {
+    "5830E625-938B-4CDC-BF32-7389919130DF": {
+      "symbolID": ""
+    },
+    "855A783E-3312-48F7-BC69-6862D6BA7E38": {
+      "symbolID": ""
+    },
+    "D3508DDB-34C9-4CB4-8D0B-C2C46D1D4C53": {
+      "3381F59A-994B-44FD-938C-ADBCF4D05465": {
+        "symbolID": "06ECAD4A-0DEE-45E7-B524-B12F4C129179"
+      },
+      "symbolID": "30C0A1F9-8377-4958-A7A3-088A4FC3EBE1"
+    },
+    "DAFB1CA2-7767-4024-B9F2-C5453FDD3A76": "Irish index"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F1D9CB29-8EA7-44FA-A5FD-7522AE3222C3",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "7B790581-CCF2-4096-A3B7-1EF0B9E7AE92",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "FFA60E8A-DAF0-4F11-AF0B-3BE4166A8547",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 10,
+    "width": 20,
+    "x": 6,
+    "y": 11
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9AC3D314-50F4-41D9-ACB6-9E46B11D0DDD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F44ECDA7-CDBE-42E7-94EB-320917894B39"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2D22AC1D-AF8F-4AFD-8CF5-40766520A802"
+    }
+  ],
+  "name": "sap-logo-svg",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 2.717391304347827,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

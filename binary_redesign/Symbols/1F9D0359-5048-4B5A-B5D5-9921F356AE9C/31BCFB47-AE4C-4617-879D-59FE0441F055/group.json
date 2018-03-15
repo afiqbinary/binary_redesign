@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "do_objectID": "31BCFB47-AE4C-4617-879D-59FE0441F055",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3639FB4C-E1AE-4572-A675-28EFDC45DB95",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B1B532B3-4664-4B51-9731-E5228725C6BD",
+    "height": 20,
+    "width": 30,
+    "x": 1,
+    "y": 6
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "769D4C22-0E50-4AA7-B3B8-5061C731BEF7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D7830484-4E99-48FB-AFB0-DEA6AC11D7B7"
+    },
+    {
+      "class": "group",
+      "id": "0C0B6E08-2899-47C2-8DEB-A60CE559224C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "02EF2599-89BF-4856-98DD-A647A9CEC4A0"
+    }
+  ],
+  "name": "citi",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "79876EEC-FF0C-4897-96FE-59D38B677AA2",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 2.272727272727272,
+      "type": 0
+    },
+    "do_objectID": "17F4013D-6985-48A6-87B2-ADFDBDB0899C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

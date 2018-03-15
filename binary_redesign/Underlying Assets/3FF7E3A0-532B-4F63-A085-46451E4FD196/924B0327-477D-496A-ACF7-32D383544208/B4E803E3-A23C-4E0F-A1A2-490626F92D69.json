@@ -1,0 +1,88 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "B4E803E3-A23C-4E0F-A1A2-490626F92D69",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8BCA0F5F-4935-43EC-AF06-2CBE050CC647",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "404D31F4-52AC-4D6A-BB74-678B907C0D5E",
+    "height": 40,
+    "width": 368,
+    "x": -1,
+    "y": 272
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "row-7",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "5830E625-938B-4CDC-BF32-7389919130DF_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "855A783E-3312-48F7-BC69-6862D6BA7E38_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D3508DDB-34C9-4CB4-8D0B-C2C46D1D4C53_symbolID",
+      "value": "E0B9031E-0E56-424E-8A1A-2061811535E8"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "DAFB1CA2-7767-4024-B9F2-C5453FDD3A76_stringValue",
+      "value": "SAP"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "44C5E1D0-A1C0-4347-814C-A6E055322DA4",
+      "overrideName": "D3508DDB-34C9-4CB4-8D0B-C2C46D1D4C53/3F6F1428-E9A2-43D6-BA9B-B45FD4BA2AF0_symbolID",
+      "value": "BA1EBDF6-6909-4759-AE6D-C01445223F76"
+    }
+  ],
+  "overrides": {
+    "5830E625-938B-4CDC-BF32-7389919130DF": {
+      "symbolID": ""
+    },
+    "855A783E-3312-48F7-BC69-6862D6BA7E38": {
+      "symbolID": ""
+    },
+    "D3508DDB-34C9-4CB4-8D0B-C2C46D1D4C53": {
+      "3F6F1428-E9A2-43D6-BA9B-B45FD4BA2AF0": {
+        "symbolID": "BA1EBDF6-6909-4759-AE6D-C01445223F76"
+      },
+      "symbolID": "E0B9031E-0E56-424E-8A1A-2061811535E8"
+    },
+    "DAFB1CA2-7767-4024-B9F2-C5453FDD3A76": "SAP"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "65FD6ABE-4A02-41F1-A98F-F84CCB02AA69",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "7B790581-CCF2-4096-A3B7-1EF0B9E7AE92",
+  "verticalSpacing": 0
+}

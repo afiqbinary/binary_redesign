@@ -1,0 +1,88 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "77FEBCF9-5FEC-4B18-A14F-A717F446CB85",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "06FD40E4-2DA3-4C0A-855F-F0A6C08C5D35",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "67647180-C811-4F18-8656-BD644825E3DC",
+    "height": 40,
+    "width": 368,
+    "x": -1,
+    "y": 350
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "row-9",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "5830E625-938B-4CDC-BF32-7389919130DF_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "855A783E-3312-48F7-BC69-6862D6BA7E38_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D3508DDB-34C9-4CB4-8D0B-C2C46D1D4C53_symbolID",
+      "value": "7D6DB7C4-05C5-4A0B-8057-8467545A0C4D"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "DAFB1CA2-7767-4024-B9F2-C5453FDD3A76_stringValue",
+      "value": "Japanese OTC Index"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7D20478C-C05F-4CA2-B298-87D93170BCFE",
+      "overrideName": "D3508DDB-34C9-4CB4-8D0B-C2C46D1D4C53/3F6F1428-E9A2-43D6-BA9B-B45FD4BA2AF0_symbolID",
+      "value": "BA56F3A0-5262-4896-B459-2E01EB887E12"
+    }
+  ],
+  "overrides": {
+    "5830E625-938B-4CDC-BF32-7389919130DF": {
+      "symbolID": ""
+    },
+    "855A783E-3312-48F7-BC69-6862D6BA7E38": {
+      "symbolID": ""
+    },
+    "D3508DDB-34C9-4CB4-8D0B-C2C46D1D4C53": {
+      "3F6F1428-E9A2-43D6-BA9B-B45FD4BA2AF0": {
+        "symbolID": "BA56F3A0-5262-4896-B459-2E01EB887E12"
+      },
+      "symbolID": "7D6DB7C4-05C5-4A0B-8057-8467545A0C4D"
+    },
+    "DAFB1CA2-7767-4024-B9F2-C5453FDD3A76": "Japanese OTC Index"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A79EDFE4-C1EC-4DD4-BAA6-DB36FC25C16D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "7B790581-CCF2-4096-A3B7-1EF0B9E7AE92",
+  "verticalSpacing": 0
+}
