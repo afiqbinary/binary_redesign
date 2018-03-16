@@ -15,22 +15,18 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "60D1B4E5-94E4-4DE2-B44E-55DB70119B1E",
-    "height": 63,
-    "width": 367,
-    "x": 0,
-    "y": 0
+    "height": 38,
+    "width": 366,
+    "x": 1,
+    "y": 29
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "text",
-      "id": "FE6716DC-1844-4C86-AC56-97E18368B299"
-    },
     {
       "class": "shapeGroup",
       "id": "88CF2762-1278-450A-B5CD-F9282FB471F1"
@@ -40,8 +36,8 @@
       "id": "BBBB39B8-2B11-4FD1-93FF-582FB994C315"
     }
   ],
-  "name": "Group 4",
-  "nameIsFixed": false,
+  "name": "row",
+  "nameIsFixed": true,
   "originalObjectID": "237DE78C-3EDC-4C89-8E41-F9BA0FB80180",
   "resizingConstraint": 63,
   "resizingType": 0,

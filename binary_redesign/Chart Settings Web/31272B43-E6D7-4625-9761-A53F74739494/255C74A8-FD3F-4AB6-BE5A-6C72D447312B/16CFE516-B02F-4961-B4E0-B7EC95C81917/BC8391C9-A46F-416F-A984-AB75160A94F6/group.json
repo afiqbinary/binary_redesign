@@ -15,21 +15,25 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "DE910795-3B91-48C1-B1B8-F2672AE932F7",
-    "height": 63,
+    "height": 67,
     "width": 367,
     "x": 0,
-    "y": 79
+    "y": 83
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
       "id": "FBB1F8BC-2BC7-457A-94F3-EF89DC073F46"
+    },
+    {
+      "class": "text",
+      "id": "FE6716DC-1844-4C86-AC56-97E18368B299"
     }
   ],
   "name": "Favorites",

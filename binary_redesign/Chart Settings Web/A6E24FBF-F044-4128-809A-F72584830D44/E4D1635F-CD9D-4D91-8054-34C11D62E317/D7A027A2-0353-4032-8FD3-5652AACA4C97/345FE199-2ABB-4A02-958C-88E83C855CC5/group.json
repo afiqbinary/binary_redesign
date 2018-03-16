@@ -13,21 +13,29 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 156,
+    "height": 188,
     "width": 368,
     "x": 0,
-    "y": 141
+    "y": 161
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
-      "id": "556BBFED-9DF7-478F-9A21-EDB2348D85B6"
+      "id": "23D9EB41-8CD9-4C3B-B3CD-9C646FB4BACA"
+    },
+    {
+      "class": "group",
+      "id": "2DADF1FD-1285-4236-998D-DB55283AED08"
+    },
+    {
+      "class": "text",
+      "id": "8EBEA6D7-CCA8-4820-AA83-7ADC87D1CD63"
     }
   ],
   "name": "Favorites",

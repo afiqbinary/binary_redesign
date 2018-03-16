@@ -15,10 +15,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "6FFBA743-D393-4F32-AFEB-296209F996E5",
-    "height": 63,
+    "height": 67,
     "width": 367,
     "x": 0,
-    "y": 79
+    "y": 83
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -29,7 +29,11 @@
   "layers": [
     {
       "class": "group",
-      "id": "4E2D4FD2-73B6-4EBA-A099-F957A820EEF6"
+      "id": "21F3D5CB-E1FF-4736-8D02-60554FDB65B4"
+    },
+    {
+      "class": "text",
+      "id": "2ECE4B5D-D7E4-4502-8EA9-959158B10265"
     }
   ],
   "name": "Favorites",

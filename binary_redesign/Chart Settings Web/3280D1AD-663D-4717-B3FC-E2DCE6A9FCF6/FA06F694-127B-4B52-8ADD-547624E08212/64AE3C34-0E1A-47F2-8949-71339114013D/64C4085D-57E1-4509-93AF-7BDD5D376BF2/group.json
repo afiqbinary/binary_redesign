@@ -15,10 +15,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "DABCA11B-B776-4FFA-A02B-A5E9D22714DF",
-    "height": 156,
+    "height": 184,
     "width": 367,
     "x": 0,
-    "y": 110
+    "y": 122
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -29,27 +29,11 @@
   "layers": [
     {
       "class": "group",
-      "id": "8D51246B-9ED3-4045-840E-C3911F8F19B1"
+      "id": "7EEDCC2D-61FB-4A75-B738-DCDB7E0AA1DB"
     },
     {
-      "class": "shapeGroup",
-      "id": "D0B5C61A-5F7A-457F-89F4-D67C023B6C82"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "6B930386-BEB1-4ED2-B238-0B818A45C406"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "D26215CA-4391-4574-96A0-FB9AA728869A"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "33A701B2-2DED-4524-AA6B-0267E93D914B"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "CB4DE715-ACA0-4838-ADCC-6FF50512CA29"
+      "class": "text",
+      "id": "D5D91E71-327C-4FAE-923B-6E6AF045D415"
     }
   ],
   "name": "Favorites",
