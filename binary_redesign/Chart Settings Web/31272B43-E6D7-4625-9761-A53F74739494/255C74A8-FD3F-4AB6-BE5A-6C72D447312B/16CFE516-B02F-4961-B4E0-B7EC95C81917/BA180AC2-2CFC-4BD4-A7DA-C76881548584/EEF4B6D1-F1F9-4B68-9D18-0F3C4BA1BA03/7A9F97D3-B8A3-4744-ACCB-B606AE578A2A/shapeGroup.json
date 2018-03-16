@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 30,
+    "height": 38,
     "width": 366,
-    "x": 1,
-    "y": 33
+    "x": 0,
+    "y": 0
   },
   "hasClickThrough": false,
   "hasClippingMask": true,
@@ -32,8 +32,8 @@
       "id": "A3FE8267-D6D2-423A-A95E-A64884D4487B"
     }
   ],
-  "name": "Rectangle 2",
-  "nameIsFixed": false,
+  "name": "bg",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

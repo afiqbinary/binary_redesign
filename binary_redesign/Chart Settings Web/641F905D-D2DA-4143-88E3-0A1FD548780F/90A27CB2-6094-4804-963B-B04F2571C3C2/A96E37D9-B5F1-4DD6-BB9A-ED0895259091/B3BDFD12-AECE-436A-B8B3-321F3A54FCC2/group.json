@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 156,
+    "height": 184,
     "width": 367,
     "x": 0,
-    "y": 110
+    "y": 122
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -27,27 +27,11 @@
   "layers": [
     {
       "class": "group",
-      "id": "E50910CB-B109-4347-9944-D43EE788452B"
+      "id": "15843B84-EAAB-4E41-8841-093CD21B60EF"
     },
     {
-      "class": "shapeGroup",
-      "id": "B3788110-BBFE-4FFD-8EE5-E1EA5FEF148A"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "5BF6AF5E-731E-4345-86A4-4FBE83E57331"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "97BF11E6-0A46-455F-A19E-F80877DC5FFC"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "15C322F3-94DC-4282-9463-4F9F2E2BE7CC"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "58A8DB3A-8921-4809-A4D3-FE9E8CF71EC7"
+      "class": "text",
+      "id": "7FD070F9-249B-44D2-B267-27D12DA67BC8"
     }
   ],
   "name": "Favorites",
