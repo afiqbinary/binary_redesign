@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "do_objectID": "D4A165C1-3DA0-44C1-AC6C-67820139D9F5",
+  "do_objectID": "370A1720-6768-43B2-B8AB-CB9FBA017068",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -31,8 +31,8 @@
     "constrainProportions": false,
     "height": 803,
     "width": 1440,
-    "x": 10752,
-    "y": 1075
+    "x": -1878,
+    "y": 6159
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -53,43 +53,39 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "9671F1D6-D3CB-4FC4-B4EF-810D36C46E3D"
+      "id": "97C93E58-5AC9-4A86-A94B-A184592C4195"
     },
     {
       "class": "group",
-      "id": "A462E1AA-7330-4A29-BDB2-A9B2D3CE00E8"
+      "id": "AE62EBEF-F323-419A-A59B-8D448891D34F"
+    },
+    {
+      "class": "group",
+      "id": "2E6DBC68-C31E-422F-895C-389383F6BDCB"
     },
     {
       "class": "shapeGroup",
-      "id": "A2F36BD5-55E6-4666-8724-CBA1B42A4620"
+      "id": "401216AA-F2AB-45A3-9895-A373E1D055CF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "45550C90-1F2D-4FD5-AC90-68810720FE39"
     },
     {
       "class": "group",
-      "id": "1A4F24C3-E16B-41ED-A9CB-911B8EC41421"
+      "id": "2D61E5A5-40C7-485E-A14C-B71C2CBF543A"
+    },
+    {
+      "class": "group",
+      "id": "C352024E-1870-4C24-8C90-5A86945E921C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9E8FDE11-EB8A-4E38-981D-DB37BCCE7119"
     },
     {
       "class": "symbolInstance",
-      "id": "BB73E7AB-4416-4421-B534-36DBBD2548B5"
-    },
-    {
-      "class": "group",
-      "id": "81CFD6B4-91A2-4C25-9C38-DA8AABA0371D"
-    },
-    {
-      "class": "text",
-      "id": "8FA16B39-748C-4391-BBCE-BE3BCCE7A807"
-    },
-    {
-      "class": "text",
-      "id": "46FA9A23-F06F-4042-BF9E-61EF1FEAC145"
-    },
-    {
-      "class": "group",
-      "id": "D87AA925-8AB1-401D-AA20-1396361539D2"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "F02755D2-847F-403E-B770-B3D0729AECA5"
+      "id": "3C5AA068-099C-40C1-80B9-1ED75412C6FB"
     }
   ],
   "layout": {
@@ -107,7 +103,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1416
   },
-  "name": "45.aroon settings",
+  "name": "47.comparison with active and favorites",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
