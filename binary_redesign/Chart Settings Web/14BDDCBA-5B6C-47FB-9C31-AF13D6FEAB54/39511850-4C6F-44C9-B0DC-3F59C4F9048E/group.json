@@ -1,0 +1,110 @@
+{
+  "_class": "group",
+  "do_objectID": "39511850-4C6F-44C9-B0DC-3F59C4F9048E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C28068B9-E2A7-4299-B3C5-BFD30BFC0FF0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D02B3C0F-AD60-495D-B899-F8C84B0BBE81",
+    "height": 336,
+    "width": 200,
+    "x": 257,
+    "y": 348
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2D0520AA-0940-40D5-A7A1-4662291F39C5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "20C45DD1-2F4C-49D1-8E33-BCFD8F6CE514"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "77FB6F5C-C412-4D9F-BC07-D77ABE9C9EA6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6DB63E3B-27BF-4F8B-8537-703F85832613"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3B66AFA1-5EDA-452B-B73F-29966A13D393"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0ACD6346-3964-401E-9BAE-19D22DF6827E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E79E5921-64E9-490F-ACFB-84C12BB5B574"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "965F6B6D-A6CF-4117-8EB8-AFCE5D594509"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "95480ABB-701B-4B45-82F5-ED63B38DB186"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1775E77C-E4D0-4CF5-B4E6-3123060353C3"
+    },
+    {
+      "class": "group",
+      "id": "554FB582-EA5E-44C1-996D-F9EF210AD738"
+    }
+  ],
+  "name": "chart style popup",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D33A778A-0043-4AB0-AA1D-79B96292DA81",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 10,
+        "color": {
+          "_class": "color",
+          "alpha": 0.14,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": 6,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  }
+}
