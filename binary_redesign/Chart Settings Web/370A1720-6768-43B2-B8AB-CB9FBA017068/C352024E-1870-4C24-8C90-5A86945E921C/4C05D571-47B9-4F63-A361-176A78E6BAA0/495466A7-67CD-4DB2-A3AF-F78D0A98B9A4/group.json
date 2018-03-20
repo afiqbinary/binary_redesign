@@ -16,7 +16,7 @@
     "constrainProportions": false,
     "do_objectID": "F26247E4-BB85-41BB-8C17-BEC06CC54BBF",
     "height": 106,
-    "width": 367,
+    "width": 368,
     "x": 0,
     "y": 0
   },
@@ -25,11 +25,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
       "id": "95684B67-A0AE-430D-B385-2A3B0547A972"
+    },
+    {
+      "class": "group",
+      "id": "341FDBD9-5417-427E-9325-405B294DF5EB"
     },
     {
       "class": "text",
