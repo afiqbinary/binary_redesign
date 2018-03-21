@@ -1,0 +1,72 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "8B7DB570-AC0D-49C9-819B-1AC98D06DABB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "74B82FE6-B713-4F04-8718-AD2D6E08E0FE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5B3876A0-FA60-4F61-9576-0A96439EF32F",
+    "height": 64,
+    "width": 230,
+    "x": 179,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "name": "Trade Type",
+  "nameIsFixed": false,
+  "originalObjectID": "53C7F225-D173-47B7-817F-9E8FAD021D70",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "E86C947F-1675-406A-B993-D803AFEE1ABC_symbolID",
+      "value": "E05774DE-0A16-48FF-A67B-C026ECCE8517"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "0689FC63-1C88-4478-ACFC-2734F0916521_symbolID",
+      "value": "E05774DE-0A16-48FF-A67B-C026ECCE8517"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1CEA43E9-9B9A-4867-ACFB-3F3B58B22EAB_stringValue",
+      "value": "Ends In/Ends Out"
+    }
+  ],
+  "overrides": {
+    "0689FC63-1C88-4478-ACFC-2734F0916521": {
+      "symbolID": "E05774DE-0A16-48FF-A67B-C026ECCE8517"
+    },
+    "1CEA43E9-9B9A-4867-ACFB-3F3B58B22EAB": "Ends In/Ends Out",
+    "E86C947F-1675-406A-B993-D803AFEE1ABC": {
+      "symbolID": "E05774DE-0A16-48FF-A67B-C026ECCE8517"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "26974C7D-1607-499A-AF9C-125A5F8C281B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B0827EA4-3D9F-4B27-8762-C26242E91D55",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,82 @@
+{
+  "_class": "group",
+  "do_objectID": "17C6C44D-3D42-44FC-BB0F-000172892E62",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EF5A007F-2F23-4E32-A7CB-1583B3CD8A1E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CE124980-509F-4154-B31C-1E6E29CB2F2B",
+    "height": 32,
+    "width": 255,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7F78B088-F1FB-4635-A4CC-9FE98BE68DA7"
+    },
+    {
+      "class": "text",
+      "id": "8671D5C3-2C3B-4189-B075-2A8DA66178E5"
+    },
+    {
+      "class": "text",
+      "id": "50BED14A-C3B3-49AE-A585-DFFF6D3423EB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DB9A64F3-AA14-4A88-B6C3-F5BB71953AF0"
+    }
+  ],
+  "name": "Group 10 Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F59F7F8F-A914-4D6C-A08B-25EB736B940D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 1,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "F45822D0-5A1E-4F6D-B418-3FDAC2E5CB7A",
+      "transition": 0
+    }
+  }
+}
