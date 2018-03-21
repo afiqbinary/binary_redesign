@@ -1,0 +1,86 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "55C515AD-675A-4C23-892A-1BBC06B4F193",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "209DDA00-6F6E-4B3C-8B33-CE122C7F93D6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2D43218E-1F55-4A0B-AD1D-12F66DDE5E04",
+    "height": 32,
+    "width": 168,
+    "x": 16,
+    "y": 164
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list-5",
+  "nameIsFixed": true,
+  "originalObjectID": "3A1CD1C7-D976-49C5-8A1D-F4932B2465D0",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "2A2BBEE9-55E0-4F80-9205-16D748D353FC_stringValue",
+      "value": "Hollow Candle"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9EF7ABA7-08B9-48A3-BF59-3801BDA6673D_symbolID",
+      "value": "C032D8CD-7738-4F87-97A6-54BB53FCF8B8"
+    }
+  ],
+  "overrides": {
+    "2A2BBEE9-55E0-4F80-9205-16D748D353FC": "Hollow Candle",
+    "9EF7ABA7-08B9-48A3-BF59-3801BDA6673D": {
+      "symbolID": "C032D8CD-7738-4F87-97A6-54BB53FCF8B8"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "983C1E88-BC91-44F2-925C-FEB3BCBE74C9",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "8D15087E-24A7-4331-BA4D-9113A2EBBA24",
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 1,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 1,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "CD64C09D-1F83-41EB-A822-9DE3A76904DB",
+      "transition": 0
+    }
+  },
+  "verticalSpacing": 0
+}

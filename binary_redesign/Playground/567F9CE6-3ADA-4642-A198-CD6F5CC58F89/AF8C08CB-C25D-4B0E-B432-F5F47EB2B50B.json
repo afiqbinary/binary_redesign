@@ -1,0 +1,83 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "AF8C08CB-C25D-4B0E-B432-F5F47EB2B50B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FDFF03A1-DCFE-40DF-AB06-EEF9357A732A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E97642CD-F156-4011-B7AA-02000B7D163E",
+    "height": 460,
+    "width": 320,
+    "x": 0,
+    "y": 70
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "mobile/elements/chart/candle big",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "7B629C61-B97F-40A7-B500-F109756F5612_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9FF30C18-CA3E-4063-BE8A-3C547555AB3C/15655C93-C170-4785-AA67-394EB580245B_stringValue",
+      "value": "British American Tobacco"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9FF30C18-CA3E-4063-BE8A-3C547555AB3C/9F3D9817-7B2C-450D-BA37-71B4B702DE86_stringValue",
+      "value": "OTC Stocks"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9FF30C18-CA3E-4063-BE8A-3C547555AB3C/3A7CBCAF-6CE5-4626-AC8D-AC33B83995A0_stringValue",
+      "value": "156.75"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9FF30C18-CA3E-4063-BE8A-3C547555AB3C/03A00BF6-7D6E-4238-816C-0C5D796EC563_stringValue",
+      "value": "0.57 (1.5%)"
+    }
+  ],
+  "overrides": {
+    "7B629C61-B97F-40A7-B500-F109756F5612": {
+      "symbolID": ""
+    },
+    "9FF30C18-CA3E-4063-BE8A-3C547555AB3C": {
+      "03A00BF6-7D6E-4238-816C-0C5D796EC563": "0.57 (1.5%)",
+      "15655C93-C170-4785-AA67-394EB580245B": "British American Tobacco",
+      "3A7CBCAF-6CE5-4626-AC8D-AC33B83995A0": "156.75",
+      "9F3D9817-7B2C-450D-BA37-71B4B702DE86": "OTC Stocks"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "213D5237-BEDC-4622-93C5-B105900D9EDA",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "0D6108EA-0B64-4B24-9B54-843A7C9EF6DB",
+  "verticalSpacing": 0
+}
