@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "do_objectID": "BFF2051F-A224-4992-92BE-9E0C538720C7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F935D92E-9C10-481C-9BF3-C413D6E0BCD2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FFE29AEF-C465-4DEE-B622-6B8D7135251B",
+    "height": 21,
+    "width": 31,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5466656E-E66B-430F-A7ED-11990069CB6E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A1F18B50-F2EF-44EC-A41B-EB1C429F7093"
+    },
+    {
+      "class": "group",
+      "id": "22E326E4-F3BF-42A1-8A1D-C5C6C1173AFC"
+    },
+    {
+      "class": "group",
+      "id": "915086D1-C00A-4594-BE4C-6A43BC3E636F"
+    }
+  ],
+  "name": "AUD",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "A1A76505-1023-44AF-935C-C2C7E1746BA9",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 6.4,
+      "type": 0
+    },
+    "do_objectID": "1753750E-F8D4-4CFF-8B5C-0F579B76415F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

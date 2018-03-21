@@ -1,0 +1,82 @@
+{
+  "_class": "group",
+  "do_objectID": "C50B10EA-C2BC-4BC7-A4C3-DBE039E29A68",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "98A02AA6-ED30-4574-8F8A-AE1BBE0B1229",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1608A834-28E8-490C-892C-92A45BAF2385",
+    "height": 64,
+    "width": 257,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3CA45DA4-627A-4D0E-B2DF-681AD6F9702C"
+    },
+    {
+      "class": "text",
+      "id": "8924366D-953E-43DC-AC43-82AEC7D2EA56"
+    },
+    {
+      "class": "group",
+      "id": "A7B87686-C728-4F09-8888-AAE8AE70C97F"
+    },
+    {
+      "class": "group",
+      "id": "BA7FC82E-A8DB-4689-AEDE-2ED55F3B002C"
+    }
+  ],
+  "name": "Choose market",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "01C35E7D-0B8C-4CF8-AE92-246F11B33000",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 1,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "EF8ED29E-ABC3-4CE1-AAC6-359036919C63",
+      "transition": 0
+    }
+  }
+}
